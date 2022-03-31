@@ -8,7 +8,7 @@
 
  There are 3 parts to this. Free Beginner Red Team Path, Free Beginner Blue Team Path and Extremely Hard rooms to do. The rooms are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
 
-To get started, fork this repo. Mark the tasks you have completed as below
+To get started, Click on Use this template button. Mark the tasks you have completed as below
 
 ```markdown
 - [x] OpenVPN <https://tryhackme.com/room/openvpn>
