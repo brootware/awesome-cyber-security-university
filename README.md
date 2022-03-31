@@ -18,7 +18,7 @@ It will look like this.
 
 - [x] OpenVPN <https://tryhackme.com/room/openvpn>
 
-As you look through this repo, you will find hidden badges for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
+As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
 
 Pull requests are welcome with the condition that the resource should be free!
 
