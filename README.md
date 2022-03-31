@@ -38,7 +38,9 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] OpenVPN <https://tryhackme.com/room/openvpn>
 - [ ] Welcome <https://tryhackme.com/jr/welcome>
 - [ ] Intro to Researching <https://tryhackme.com/room/introtoresearch>
-- [ ] Learn Linux <https://tryhackme.com/room/zthlinux>
+- [ ] Linux Fundamentals 1 <https://tryhackme.com/room/linuxfundamentalspart1>
+- [ ] Linux Fundamentals 2 <https://tryhackme.com/room/linuxfundamentalspart2>
+- [ ] Linux Fundamentals 3 <https://tryhackme.com/room/linuxfundamentalspart3>
 - [ ] Pentesting fundamentals <https://tryhackme.com/room/pentestingfundamentals>
 - [ ] Principles of security <https://tryhackme.com/room/principlesofsecurity>
 - [ ] Red Team Engagements <https://tryhackme.com/room/redteamengagements>
@@ -175,7 +177,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Red Line <https://tryhackme.com/room/btredlinejoxr3d>
 - [ ] Autopsy <https://tryhackme.com/room/autopsy2ze0>
 
-## Level 2 - Security Operations
+## Level 2 - Security Operations & Incident Response
 
 - [ ] Investigating Windows <https://tryhackme.com/room/investigatingwindows>
 - [ ] Juicy Details <https://tryhackme.com/room/juicydetails>
@@ -206,7 +208,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Hunter - Windows Disk Image Forensics <https://cyberdefenders.org/blueteam-ctf-challenges/32>
 - [ ] Spotlight - Mac Disk Image Forensics <https://cyberdefenders.org/blueteam-ctf-challenges/34>
 - [ ] Ulysses -  Linux Disk Image Forensics <https://cyberdefenders.org/blueteam-ctf-challenges/41>
-- [ ] Banking Troubles - Windows Memory Image Forensics
+- [ ] Banking Troubles - Windows Memory Image Forensics <https://cyberdefenders.org/blueteam-ctf-challenges/43>
 - [ ] Detect Log4J <https://cyberdefenders.org/blueteam-ctf-challenges/86>
 
 ## Level 5 - Malware and Reverse Engineering
