@@ -1,4 +1,4 @@
-# Cyber-Security-Education 🔐 🕵️ 🎓
+# Cyber-Security-University 🔐 🕵️ 🎓
 
 <p align="center">
 <img src="assets/purpleteam.png" />
