@@ -26,10 +26,10 @@ Pull requests are welcome with the condition that the resource should be free!
 
 | Paths                              | Completion |
 | -------------------------------- | ---------------------|
-|[Introduction and Pre-Security](https://github.com/brootware/Cyber-Security-University/README.md#introduction-and-pre-security) |(Completed/In Progress) |
-|[Free Beginner Red Team Path](https://github.com/brootware/Cyber-Security-University/README.md#free-beginner-red-team-path)   |(Add your badge here. Badge code is hidden in this repo) |
-|[Free Beginner Blue Team Path](https://github.com/brootware/Cyber-Security-University/README.md#free-beginner-blue-team-path)  |(Add your badge here. Badge code is hidden in this repo) |
-|[Extremely Hard Rooms to do](https://github.com/brootware/Cyber-Security-University/README.md#extremely-hard-rooms-to-do)    |(Completed/In Progress) |
+|[Introduction and Pre-Security](https://github.com/brootware/Cyber-Security-University/blob/main/README.md#introduction-and-pre-security) |(Completed/In Progress) |
+|[Free Beginner Red Team Path](https://github.com/brootware/Cyber-Security-University/blob/main/README.md#free-beginner-red-team-path)   |(Add your badge here. Badge code is hidden in this repo) |
+|[Free Beginner Blue Team Path](https://github.com/brootware/Cyber-Security-University/blob/main/README.md#free-beginner-blue-team-path)  |(Add your badge here. Badge code is hidden in this repo) |
+|[Extremely Hard Rooms to do](https://github.com/brootware/Cyber-Security-University/blob/main/README.md#extremely-hard-rooms-to-do)    |(Completed/In Progress) |
 
 # Introduction and Pre-Security
 
