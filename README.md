@@ -1,6 +1,6 @@
 # Cyber-Security-Education 🔐 🕵️ 🎓
 
-Because Education should be free. There are 3 parts to this blog. Free Beginner Red Team Path, Free Beginner Blue Team Path and Extremely Hard rooms to do. The rooms are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
+Because Education should be free. There are 3 parts. Free Beginner Red Team Path, Free Beginner Blue Team Path and Extremely Hard rooms to do. The rooms are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
 
 To get started, fork this repo. Mark the tasks you have completed as below
 
