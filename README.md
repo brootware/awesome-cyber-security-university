@@ -5,12 +5,12 @@ Because Education should be free. There are 3 parts to this blog. Free Beginner 
 To get started, fork this repo. Mark the tasks you have completed as below
 
 ```markdown
-- [ x ] OpenVPN <https://tryhackme.com/room/openvpn>
+- [x] OpenVPN <https://tryhackme.com/room/openvpn>
 ```
 
 It will look like this.
 
-- [ x ] OpenVPN <https://tryhackme.com/room/openvpn>
+- [x] OpenVPN <https://tryhackme.com/room/openvpn>
 
 As you look through this repo, you will find hidden badges for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
 
