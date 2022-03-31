@@ -127,13 +127,13 @@ As you look through this repo, you will find hidden badges for both red and blue
 <details>
   <summary>Click here to get your red team badge!</summary>
 
-<a href="https://github.com/brootware/Cyber-Security-Education"><img src="https://img.shields.io/badge/Completed-Red%20Team%20Path-red" /></a>
+<a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Red%20Team%20Path-red" /></a>
 
 <p> Copy below and add it to your forked github repo </p>
 
 ```html
 
-<a href="https://github.com/brootware/Cyber-Security-Education"><img src="https://img.shields.io/badge/Completed-Red%20Team%20Path-red" /></a>
+<a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Red%20Team%20Path-red" /></a>
 
 ```
 
@@ -222,13 +222,13 @@ As you look through this repo, you will find hidden badges for both red and blue
 <details>
   <summary>Click here to get your blue team badge!</summary>
   
-<a href="https://github.com/brootware/Cyber-Security-Education"><img src="https://img.shields.io/badge/Completed-Blue%20Team%20Path-blue" /></a>
+<a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Blue%20Team%20Path-blue" /></a>
 
 <p> Copy below and add it to your forked github repo </p>
 
 ```html
 
-<a href="https://github.com/brootware/Cyber-Security-Education"><img src="https://img.shields.io/badge/Completed-Blue%20Team%20Path-blue" /></a>
+<a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Blue%20Team%20Path-blue" /></a>
 
 ```
 
