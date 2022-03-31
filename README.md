@@ -20,7 +20,7 @@ It will look like this.
 
 As you look through this repo, you will find hidden badges for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
 
-Pull requests are welcome!
+Pull requests are welcome with the condition that the resource should be free!
 
 # Content Page
 
