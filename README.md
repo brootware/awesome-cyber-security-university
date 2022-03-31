@@ -1,6 +1,12 @@
 # Cyber-Security-Education 🔐 🕵️ 🎓
 
-Because Education should be free. There are 3 parts. Free Beginner Red Team Path, Free Beginner Blue Team Path and Extremely Hard rooms to do. The rooms are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
+<p align="center">
+<img src="assets/purpleteam.png" />
+<br />
+<i>Because Education should be free.</i>
+</p>
+
+ There are 3 parts to this. Free Beginner Red Team Path, Free Beginner Blue Team Path and Extremely Hard rooms to do. The rooms are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
 
 To get started, fork this repo. Mark the tasks you have completed as below
 
@@ -16,13 +22,12 @@ As you look through this repo, you will find hidden badges for both red and blue
 
 # Content Page
 
-| Paths                              | Completion | 
-| -------------------------------- | ---------------------| 
+| Paths                              | Completion |
+| -------------------------------- | ---------------------|
 |[Introduction and Pre-Security](https://github.com/brootware/Cyber-Security-Education/edit/main/README.md#introduction-and-pre-security) |(Completed/In Progress) |
 |[Free Beginner Red Team Path](https://github.com/brootware/Cyber-Security-Education/edit/main/README.md#free-beginner-red-team-path)   |(Add your badge here. Badge code is hidden in this repo) |
 |[Free Beginner Blue Team Path](https://github.com/brootware/Cyber-Security-Education/edit/main/README.md#free-beginner-blue-team-path)  |(Add your badge here. Badge code is hidden in this repo) |
 |[Extremely Hard Rooms to do](https://github.com/brootware/Cyber-Security-Education/edit/main/README.md#extremely-hard-rooms-to-do)    |(Completed/In Progress) |
-
 
 # Introduction and Pre-Security
 
@@ -252,4 +257,3 @@ As you look through this repo, you will find hidden badges for both red and blue
 ## Inspired by
 
 <https://skerritt.blog/free-rooms/>
-
