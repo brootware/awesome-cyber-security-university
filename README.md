@@ -124,10 +124,6 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Kenobi <https://tryhackme.com/room/kenobi>
 - [ ] Capture the flag <https://tryhackme.com/room/c4ptur3th3fl4g>
 - [ ] Pickle Rick <https://tryhackme.com/room/picklerick>
-- [ ] Insecure Kubernetes <https://tryhackme.com/room/insekube>
-- [ ] The Great Escape (docker) <https://tryhackme.com/room/thegreatescape>
-- [ ] Solr Exploiting Log4j <https://tryhackme.com/room/solar>
-- [ ] Spring4Shell <https://tryhackme.com/room/spring4shell>
 
 > Congratulations!! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
 
@@ -146,7 +142,7 @@ Pull requests are welcome with the condition that the resource should be free!
 
 </details>
 
-## Bonus CTF practice
+## Bonus CTF practice & Latest CVEs
 
 - [ ] Post Exploitation Basics <https://tryhackme.com/room/postexploit>
 - [ ] Smag Grotto <https://tryhackme.com/room/smaggrotto>
@@ -157,6 +153,10 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Overpass <https://tryhackme.com/room/overpass>
 - [ ] Break out the cage <https://tryhackme.com/room/breakoutthecage1>
 - [ ] Lian Yu <https://tryhackme.com/room/lianyu>
+- [ ] Insecure Kubernetes <https://tryhackme.com/room/insekube>
+- [ ] The Great Escape (docker) <https://tryhackme.com/room/thegreatescape>
+- [ ] Solr Exploiting Log4j <https://tryhackme.com/room/solar>
+- [ ] Spring4Shell <https://tryhackme.com/room/spring4shell>
 
 ## Bonus Windows
 
