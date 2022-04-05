@@ -127,6 +127,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Insecure Kubernetes <https://tryhackme.com/room/insekube>
 - [ ] The Great Escape (docker) <https://tryhackme.com/room/thegreatescape>
 - [ ] Solr Exploiting Log4j <https://tryhackme.com/room/solar>
+- [ ] Spring4Shell <https://tryhackme.com/room/spring4shell>
 
 > Congratulations!! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
 
