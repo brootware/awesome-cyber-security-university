@@ -190,7 +190,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Splunk Boss of the SOC V2 <https://cyberdefenders.org/blueteam-ctf-challenges/16>
 - [ ] Splunk Boss of the SOC V3 <https://cyberdefenders.org/blueteam-ctf-challenges/8>
 
-## Level 3 - Beginner Forensics
+## Level 3 - Beginner Forensics & Cryptography
 
 - [ ] Martryohka doll <https://play.picoctf.org/practice/challenge/129?category=4&page=1&solved=0>
 - [ ] Glory of the Garden <https://play.picoctf.org/practice/challenge/44?category=4&page=1&solved=0>
@@ -203,6 +203,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Emo <https://app.hackthebox.com/challenges/emo>
 - [ ] Obsecure <https://app.hackthebox.com/challenges/obscure>
 - [ ] Bucket - Cloud Security Forensics <https://cyberdefenders.org/blueteam-ctf-challenges/84>
+- [ ] Introduction to Cryptohack <https://cryptohack.org/courses/intro/course_details/>
 
 ## Level 4 - Memory & Disk Forensics
 
