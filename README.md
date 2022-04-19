@@ -6,6 +6,8 @@
 <i>Because Education should be free.</i>
 </p>
 
+> Saw a great learn by doing resource? Please do contribute to this repo by either opening an issue or a pull request
+> 
 Cyber Security University is a curated list of free educational resources that focuses on learn by doing.
 
 There are 3 parts to this. Free Beginner Red Team Path, Free Beginner Blue Team Path and Extremely Hard rooms to do. The tasks are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
