@@ -10,7 +10,7 @@
 > 
 Cyber Security University is a curated list of free educational resources that focuses on learn by doing.
 
-There are 3 parts to this. Free Beginner Red Team Path, Free Beginner Blue Team Path and Extremely Hard rooms to do. The tasks are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
+There are 4 parts to this. Introduction and Pre-security, Free Beginner Red Team Path, Free Beginner Blue Team Path and Extremely Hard rooms to do. The tasks are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
 
 To get started, Click on [`Use this template`](https://github.com/brootware/Cyber-Security-University/generate) button of this repository. Mark the tasks you have completed as below
 
@@ -159,6 +159,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] The Great Escape (docker) <https://tryhackme.com/room/thegreatescape>
 - [ ] Solr Exploiting Log4j <https://tryhackme.com/room/solar>
 - [ ] Spring4Shell <https://tryhackme.com/room/spring4shell>
+- [ ] Most Recent threats <https://tryhackme.com/module/recent-threats>
 
 ## Bonus Windows
 
