@@ -54,6 +54,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 - [ ] Linux Fundamentals 3 <https://tryhackme.com/room/linuxfundamentalspart3>
 - [ ] Pentesting fundamentals <https://tryhackme.com/room/pentestingfundamentals>
 - [ ] Principles of security <https://tryhackme.com/room/principlesofsecurity>
+- [ ] Introduction to defensive security <https://tryhackme.com/room/defensivesecurity>
 - [ ] Red Team Engagements <https://tryhackme.com/room/redteamengagements>
 - [ ] Crash Course Pentesting <https://tryhackme.com/room/ccpentesting>
 
