@@ -282,7 +282,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://brootware.github.io"><img src="https://avatars.githubusercontent.com/u/7734956?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oaker Min</b></sub></a><br /><a href="#infra-brootware" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-brootware" title="Maintenance">🚧</a> <a href="https://github.com/brootware/Cyber-Security-University/commits?author=brootware" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://brootware.github.io"><img src="https://avatars.githubusercontent.com/u/7734956?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oaker Min</b></sub></a><br /><a href="#infra-brootware" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-brootware" title="Maintenance">🚧</a> <a href="https://github.com/brootware/Cyber-Security-University/commits?author=brootware" title="Documentation">📖</a> <a href="https://github.com/brootware/Cyber-Security-University/commits?author=brootware" title="Code">💻</a></td>
   </tr>
 </table>
 
