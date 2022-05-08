@@ -37,7 +37,7 @@ As you go through the curriculum, you will find completion badges that are hidde
 
 # [↑](#table-of-contents) Contributing
 
-Pull requests are welcome with the condition that the resource should be free! Please read [CONTRIBUTING](./CONTRIBUTING.md) guide if you wish to add tools or resources.
+Pull requests are welcome with the condition that the resource should be free! Please read [CONTRIBUTING](https://github.com/brootware/Cyber-Security-University/wiki) guide if you wish to add tools or resources.
 
 # [↑](#table-of-contents) Introduction and Pre-Security
 
