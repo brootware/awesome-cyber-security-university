@@ -1,0 +1,18 @@
+{
+    "ignorePatterns": [
+        {
+            "pattern": "^https://github.com/brootware/Cyber-Security-University/generate"
+        },
+        {
+            "pattern": "^https://play.picoctf.org/practice/challenge/*"
+        }
+    ],
+    "timeout": "20s",
+    "retryOn429": true,
+    "retryCount": 5,
+    "fallbackRetryDelay": "30s",
+    "aliveStatusCodes": [
+        200,
+        403
+    ]
+}

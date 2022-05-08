@@ -3,12 +3,8 @@ name: "Docs-link-checker"
 on:
   push:
     branches: [main]
-    # paths:
-    #   - "**.md"
   pull_request:
     branches: [main]
-    # paths:
-    #   - "**.md"
 env:
   DISABLE_TELEMETRY: 1
 jobs:
@@ -22,3 +18,8 @@ jobs:
           submodules: recursive
       - name: Run link check
         uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: "no"
+          use-verbose-mode: "yes"
+          check-modified-files-only: "yes"
+          config-file: ".mlc_config.json"
