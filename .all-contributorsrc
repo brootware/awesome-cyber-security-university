@@ -13,7 +13,8 @@
       "contributions": [
         "infra",
         "maintenance",
-        "doc"
+        "doc",
+        "code"
       ]
     }
   ],
