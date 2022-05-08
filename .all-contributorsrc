@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "brootware",
+      "name": "Oaker Min",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7734956?v=4",
+      "profile": "https://brootware.github.io",
+      "contributions": [
+        "infra",
+        "maintenance",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Cyber-Security-University",
+  "projectOwner": "brootware",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
