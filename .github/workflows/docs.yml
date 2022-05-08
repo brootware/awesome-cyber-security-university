@@ -1,12 +1,14 @@
 ---
-name: Docs
+name: "Docs-link-checker"
 on:
   push:
     branches:
-      - master
+      - [main]
     paths:
       - "**.md"
   pull_request:
+    branches:
+      - [main]
     paths:
       - "**.md"
 env:
