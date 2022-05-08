@@ -3,12 +3,12 @@ name: "Docs-link-checker"
 on:
   push:
     branches: [main]
-    paths:
-      - "**.md"
+    # paths:
+    #   - "**.md"
   pull_request:
     branches: [main]
-    paths:
-      - "**.md"
+    # paths:
+    #   - "**.md"
 env:
   DISABLE_TELEMETRY: 1
 jobs:
