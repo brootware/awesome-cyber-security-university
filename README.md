@@ -268,6 +268,4 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#table-of-co
 
 # [↑](#table-of-contents) Credits and Contributors
 
-## [↑](#table-of-contents) Inspired by
-
-<https://skerritt.blog/free-rooms/>
+**Inspired by** <https://skerritt.blog/free-rooms/>
