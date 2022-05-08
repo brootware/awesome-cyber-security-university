@@ -43,7 +43,7 @@ As you go through the curriculum, you will find completion badges that are hidde
 
 Pull requests are welcome with the condition that the resource should be free! Please read [Contribution guide in wiki](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
-<https://pepy.tech/project/pyredactkitss>
+<https://pepi.tech>
 
 # [↑](#table-of-contents) Introduction and Pre-Security
 
