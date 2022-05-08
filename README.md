@@ -10,6 +10,7 @@
 </p>
 
 # What's this about 🤔🤔?
+
 Cyber Security University is a curated list of free educational resources that focuses on learn by doing.
 
 There are 6 parts to this. Introduction and Pre-security, Free Beginner Red Team Path, Free Beginner Blue Team Path, Bonus practices/latest CVEs and Extremely Hard rooms to do. The tasks are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
@@ -21,7 +22,6 @@ To get started, Click on [`Use this template`](https://github.com/brootware/Cybe
 ```
 
 It will look like this.
-<!-- test -->
 
 - [x] OpenVPN <https://tryhackme.com/room/openvpn>
 
@@ -148,6 +148,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 <a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Red%20Team%20Path-red" /></a>
 
 ```
+
 Copy above and add it to the [Free Beginner Red Team Path section](#table-of-contents) of the content page.
 
 </details>
@@ -218,12 +219,12 @@ Copy above and add it to the [Free Beginner Red Team Path section](#table-of-con
   
 <a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Blue%20Team%20Path-blue" /></a>
 
-
 ```html
 
 <a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Blue%20Team%20Path-blue" /></a>
 
 ```
+
 Copy above and add it to the [Free Beginner Blue Team Path section](#table-of-contents) of the content page.
 
 </details>
