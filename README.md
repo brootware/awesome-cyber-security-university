@@ -135,6 +135,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 - [ ] [Kenobi](<https://tryhackme.com/room/kenobi>)
 - [ ] [Capture the flag](<https://tryhackme.com/room/c4ptur3th3fl4g>)
 - [ ] [Pickle Rick](<https://tryhackme.com/room/picklerick>)
+- [ ] [The Great Escape (Docker)](https://tryhackme.com/room/thegreatescape)
 
 > Congratulations!! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
 
