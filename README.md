@@ -6,11 +6,10 @@
 <i>Because Education should be free.</i>
 </p>
 
-> Saw a great learn by doing resource? Please do contribute to this repo by either opening an issue or a pull request
-> 
+# What's this about 🤔🤔?
 Cyber Security University is a curated list of free educational resources that focuses on learn by doing.
 
-There are 4 parts to this. Introduction and Pre-security, Free Beginner Red Team Path, Free Beginner Blue Team Path and Extremely Hard rooms to do. The tasks are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
+There are 6 parts to this. Introduction and Pre-security, Free Beginner Red Team Path, Free Beginner Blue Team Path, Bonus practices/latest CVEs and Extremely Hard rooms to do. The tasks are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
 
 To get started, Click on [`Use this template`](https://github.com/brootware/Cyber-Security-University/generate) button of this repository. Mark the tasks you have completed as below
 
@@ -24,20 +23,25 @@ It will look like this.
 
 As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
 
-Pull requests are welcome with the condition that the resource should be free!
-
-# Content Page
+# Table of Contents
 
 | Paths                              | Completion |
 | -------------------------------- | ---------------------|
-|[Introduction and Pre-Security](https://github.com/brootware/Cyber-Security-University/blob/main/README.md#introduction-and-pre-security) |(Completed/In Progress) |
-|[Free Beginner Red Team Path](https://github.com/brootware/Cyber-Security-University/blob/main/README.md#free-beginner-red-team-path)   |(Add your badge here. Badge code is hidden in this repo) |
-|[Free Beginner Blue Team Path](https://github.com/brootware/Cyber-Security-University/blob/main/README.md#free-beginner-blue-team-path)  |(Add your badge here. Badge code is hidden in this repo) |
-|[Extremely Hard Rooms to do](https://github.com/brootware/Cyber-Security-University/blob/main/README.md#extremely-hard-rooms-to-do)    |(Completed/In Progress) |
+|[Introduction and Pre-Security](#-introduction-and-pre-security) |(Completed/In Progress) |
+|[Free Beginner Red Team Path](#-free-beginner-red-team-path)   |(Add your badge here. Badge code is hidden in this repo) |
+|[Free Beginner Blue Team Path](#-free-beginner-blue-team-path)  |(Add your badge here. Badge code is hidden in this repo) |
+|[Bonus CTF practice & Latest CVEs](#-bonus-ctf-practice-and-latest-cves)|(Completed/In Progress)|
+|[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
+|[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) |
+|[Credits and Contributors](#-credits-and-contributors)|Here are awesome folks who contributed to this list! 🕵️|
 
-# Introduction and Pre-Security
+# [↑](#table-of-contents) Contributing
 
-## Level 1 - Intro
+Pull requests are welcome with the condition that the resource should be free! Please read [CONTRIBUTING](./CONTRIBUTING.md) guide if you wish to add tools or resources.
+
+# [↑](#table-of-contents) Introduction and Pre-Security
+
+## [↑](#table-of-contents) Level 1 - Intro
 
 - [ ] OpenVPN <https://tryhackme.com/room/openvpn>
 - [ ] Welcome <https://tryhackme.com/jr/welcome>
@@ -56,9 +60,9 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] OHsint <https://tryhackme.com/room/ohsint>
 - [ ] Shodan.io <https://tryhackme.com/room/shodan>
 
-# Free-Beginner-Red-Team-Path
+# [↑](#table-of-contents) Free-Beginner-Red-Team-Path
 
-## Level 2 - Tooling
+## [↑](#table-of-contents) Level 2 - Tooling
 
 - [ ] Tmux <https://tryhackme.com/room/rptmux>
 - [ ] Nmap <https://tryhackme.com/room/rpnmap>
@@ -78,7 +82,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Simple CTF <https://tryhackme.com/room/easyctf>
 - [ ] Bounty Hacker <https://tryhackme.com/room/cowboyhacker>
 
-## Level 3 - Crypto & Hashes with CTF practice
+## [↑](#table-of-contents) Level 3 - Crypto & Hashes with CTF practice
 
 - [ ] Crack the hash <https://tryhackme.com/room/crackthehash>
 - [ ] Agent Sudo <https://tryhackme.com/room/agentsudoctf>
@@ -87,7 +91,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Lazy Admin <https://tryhackme.com/room/lazyadmin>
 - [ ] Basic Pentesting <https://tryhackme.com/room/basicpentestingjt>
 
-## Level 4 - Web
+## [↑](#table-of-contents) Level 4 - Web
 
 - [ ] OWASP top 10 <https://tryhackme.com/room/owasptop10>
 - [ ] Inclusion <https://tryhackme.com/room/inclusion>
@@ -102,7 +106,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Jack of all trades <https://tryhackme.com/room/jackofalltrades>
 - [ ] Bolt <https://tryhackme.com/room/bolt>
 
-## Level 5 - Reverse Engineering & Pwn
+## [↑](#table-of-contents) Level 5 - Reverse Engineering & Pwn
 
 - [ ] Intro to x86 64 <https://tryhackme.com/room/introtox8664>
 - [ ] CC Ghidra <https://tryhackme.com/room/ccghidra>
@@ -114,7 +118,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Intro to pwntools <https://tryhackme.com/room/introtopwntools>
 - [ ] Pwnkit: CVE-2021-4034 <https://tryhackme.com/room/pwnkit>
 
-## Level 6 - PrivEsc
+## [↑](#table-of-contents) Level 6 - PrivEsc
 
 - [ ] Sudo Security Bypass <https://tryhackme.com/room/sudovulnsbypass>
 - [ ] Sudo Buffer Overflow <https://tryhackme.com/room/sudovulnsbof>
@@ -134,44 +138,18 @@ Pull requests are welcome with the condition that the resource should be free!
 
 <a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Red%20Team%20Path-red" /></a>
 
-<p> Copy below and add it to your forked github repo </p>
-
 ```html
 
 <a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Red%20Team%20Path-red" /></a>
 
 ```
+Copy above and add it to the [Free Beginner Red Team Path section](#table-of-contents) of the content page.
 
 </details>
 
-## Bonus CTF practice & Latest CVEs
+# [↑](#table-of-contents) Free-Beginner-Blue-Team-Path
 
-- [ ] Post Exploitation Basics <https://tryhackme.com/room/postexploit>
-- [ ] Smag Grotto <https://tryhackme.com/room/smaggrotto>
-- [ ] Inclusion <https://tryhackme.com/room/inclusion>
-- [ ] Dogcat <https://tryhackme.com/room/dogcat>
-- [ ] LFI basics <https://tryhackme.com/room/lfibasics>
-- [ ] Buffer Overflow Prep <https://tryhackme.com/room/bufferoverflowprep>
-- [ ] Overpass <https://tryhackme.com/room/overpass>
-- [ ] Break out the cage <https://tryhackme.com/room/breakoutthecage1>
-- [ ] Lian Yu <https://tryhackme.com/room/lianyu>
-- [ ] Insecure Kubernetes <https://tryhackme.com/room/insekube>
-- [ ] The Great Escape (docker) <https://tryhackme.com/room/thegreatescape>
-- [ ] Solr Exploiting Log4j <https://tryhackme.com/room/solar>
-- [ ] Spring4Shell <https://tryhackme.com/room/spring4shell>
-- [ ] Most Recent threats <https://tryhackme.com/module/recent-threats>
-
-## Bonus Windows
-
-- [ ] Attacktive Directory <https://tryhackme.com/room/attacktivedirectory>
-- [ ] Retro <https://tryhackme.com/room/retro>
-- [ ] Blue Print <https://tryhackme.com/room/blueprint>
-- [ ] Anthem <https://tryhackme.com/room/anthem>
-- [ ] Relevant <https://tryhackme.com/room/relevant>
-
-# Free-Beginner-Blue-Team-Path
-
-## Level 1 - Tools
+## [↑](#table-of-contents) Level 1 - Tools
 
 - [ ] Windows Fundamentals <https://tryhackme.com/room/windowsfundamentals1xbx>
 - [ ] Nessus <https://tryhackme.com/room/rpnessusredux>
@@ -183,7 +161,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Red Line <https://tryhackme.com/room/btredlinejoxr3d>
 - [ ] Autopsy <https://tryhackme.com/room/autopsy2ze0>
 
-## Level 2 - Security Operations & Incident Response
+## [↑](#table-of-contents) Level 2 - Security Operations & Incident Response
 
 - [ ] Investigating Windows <https://tryhackme.com/room/investigatingwindows>
 - [ ] Juicy Details <https://tryhackme.com/room/juicydetails>
@@ -193,7 +171,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Splunk Boss of the SOC V2 <https://cyberdefenders.org/blueteam-ctf-challenges/16>
 - [ ] Splunk Boss of the SOC V3 <https://cyberdefenders.org/blueteam-ctf-challenges/8>
 
-## Level 3 - Beginner Forensics & Cryptography
+## [↑](#table-of-contents) Level 3 - Beginner Forensics & Cryptography
 
 - [ ] Martryohka doll <https://play.picoctf.org/practice/challenge/129?category=4&page=1&solved=0>
 - [ ] Glory of the Garden <https://play.picoctf.org/practice/challenge/44?category=4&page=1&solved=0>
@@ -208,7 +186,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Bucket - Cloud Security Forensics <https://cyberdefenders.org/blueteam-ctf-challenges/84>
 - [ ] Introduction to Cryptohack <https://cryptohack.org/courses/intro/course_details/>
 
-## Level 4 - Memory & Disk Forensics
+## [↑](#table-of-contents) Level 4 - Memory & Disk Forensics
 
 - [ ] Sleuthkit Intro <https://play.picoctf.org/practice/challenge/301?category=4&page=2&solved=0>
 - [ ] Reminiscent <https://app.hackthebox.com/challenges/reminiscent>
@@ -218,7 +196,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Banking Troubles - Windows Memory Image Forensics <https://cyberdefenders.org/blueteam-ctf-challenges/43>
 - [ ] Detect Log4J <https://cyberdefenders.org/blueteam-ctf-challenges/86>
 
-## Level 5 - Malware and Reverse Engineering
+## [↑](#table-of-contents) Level 5 - Malware and Reverse Engineering
 
 - [ ] History of Malware <https://tryhackme.com/room/historyofmalware>
 - [ ] Malware Introduction <https://tryhackme.com/room/malmalintroductory>
@@ -235,17 +213,42 @@ Pull requests are welcome with the condition that the resource should be free!
   
 <a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Blue%20Team%20Path-blue" /></a>
 
-<p> Copy below and add it to your forked github repo </p>
 
 ```html
 
 <a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Blue%20Team%20Path-blue" /></a>
 
 ```
+Copy above and add it to the [Free Beginner Blue Team Path section](#table-of-contents) of the content page.
 
 </details>
 
-# Extremely-Hard-Rooms-to-do
+# [↑](#table-of-contents) Bonus CTF practice and Latest CVEs
+
+- [ ] Post Exploitation Basics <https://tryhackme.com/room/postexploit>
+- [ ] Smag Grotto <https://tryhackme.com/room/smaggrotto>
+- [ ] Inclusion <https://tryhackme.com/room/inclusion>
+- [ ] Dogcat <https://tryhackme.com/room/dogcat>
+- [ ] LFI basics <https://tryhackme.com/room/lfibasics>
+- [ ] Buffer Overflow Prep <https://tryhackme.com/room/bufferoverflowprep>
+- [ ] Overpass <https://tryhackme.com/room/overpass>
+- [ ] Break out the cage <https://tryhackme.com/room/breakoutthecage1>
+- [ ] Lian Yu <https://tryhackme.com/room/lianyu>
+- [ ] Insecure Kubernetes <https://tryhackme.com/room/insekube>
+- [ ] The Great Escape (docker) <https://tryhackme.com/room/thegreatescape>
+- [ ] Solr Exploiting Log4j <https://tryhackme.com/room/solar>
+- [ ] Spring4Shell <https://tryhackme.com/room/spring4shell>
+- [ ] Most Recent threats <https://tryhackme.com/module/recent-threats>
+
+# [↑](#table-of-contents) Bonus Windows
+
+- [ ] Attacktive Directory <https://tryhackme.com/room/attacktivedirectory>
+- [ ] Retro <https://tryhackme.com/room/retro>
+- [ ] Blue Print <https://tryhackme.com/room/blueprint>
+- [ ] Anthem <https://tryhackme.com/room/anthem>
+- [ ] Relevant <https://tryhackme.com/room/relevant>
+
+# [↑](#table-of-contents) Extremely-Hard-Rooms-to-do
 
 - [ ] Ra <https://tryhackme.com/room/ra>
 - [ ] Ra2 <https://tryhackme.com/room/ra2>
@@ -263,8 +266,8 @@ Pull requests are welcome with the condition that the resource should be free!
 - [ ] Racetrack Bank <https://tryhackme.com/room/racetrackbank>
 - [ ] Python Playground <https://tryhackme.com/room/pythonplayground>
 
-# Source and Credits
+# [↑](#table-of-contents) Credits and Contributors
 
-## Inspired by
+## [↑](#table-of-contents) Inspired by
 
 <https://skerritt.blog/free-rooms/>
