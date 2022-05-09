@@ -8,12 +8,19 @@
     },
     "MD013": {
         "code_blocks": false,
-        "tables": false
+        "tables": false,
+        "line_length": 400
     },
+    "MD025": false,
     "MD033": {
         "allowed_elements": [
             "details",
-            "summary"
+            "summary",
+            "p",
+            "img",
+            "br",
+            "i",
+            "a"
         ]
     },
     "MD046": false
