@@ -5,10 +5,21 @@ on:
   pull_request:
     branches: [main]
 jobs:
-  Awesome_Lint:
+  markdown_lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
-          fetch-depth: 0
-      - run: npx awesome-lint
+          submodules: recursive
+
+      - uses: articulate/actions-markdownlint@v1.1.0
+        # with:
+        #   # markdownlint config file
+        #   config: # optional
+        #   # Markdown files to scan
+        #   files: # optional, default is **/*.{md,markdown}
+        #   # Files or directories to ignore
+        #   ignore: # optional
+        #   # Try to fix basic errors
+        #   fix: # optional
