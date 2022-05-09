@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<!-- markdownlint-disable MD033 MD025 -->
+<!-- markdownlint-disable MD033 MD025 MD004 MD013-->
 <p align="center">
 <img src="assets/purpleteam.png" />
 <br />
