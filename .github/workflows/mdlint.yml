@@ -5,7 +5,7 @@ on:
   pull_request:
     branches: [main]
 jobs:
-  markdown_lint:
+  repo_lint:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

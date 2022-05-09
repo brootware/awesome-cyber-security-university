@@ -3,6 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+<!-- markdownlint-disable MD033 MD025 -->
 <p align="center">
 <img src="assets/purpleteam.png" />
 <br />
@@ -59,7 +60,9 @@ Pull requests are welcome with the condition that the resource should be free! P
 - [ ] [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>)
 - [ ] [Crash Course Pentesting](<https://tryhackme.com/room/ccpentesting>)
 
+<!-- markdownlint-disable MD036 -->
 **Introductory CTFs to get your feet wet**
+<!-- markdownlint-enable MD036 -->
 
 - [ ] [Google Dorking](<https://tryhackme.com/room/googledorking>)
 - [ ] [OHsint](<https://tryhackme.com/room/ohsint>)
@@ -80,7 +83,9 @@ Pull requests are welcome with the condition that the resource should be free! P
 - [ ] [Red Team Fundamentals](<https://tryhackme.com/room/redteamfundamentals>)
 - [ ] [Red Team Recon](<https://tryhackme.com/room/redteamrecon>)
 
+<!-- markdownlint-disable MD036 -->
 **Red Team Intro CTFs**
+<!-- markdownlint-enable MD036 -->
 
 - [ ] [Vulnversity -](<https://tryhackme.com/room/vulnversity>)
 - [ ] [Blue -](<https://tryhackme.com/room/blue>)
