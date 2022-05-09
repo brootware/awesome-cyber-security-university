@@ -14,9 +14,9 @@ jobs:
           submodules: recursive
 
       - uses: articulate/actions-markdownlint@v1.1.0
-        # with:
-        #   # markdownlint config file
-        #   config: # optional
+        with:
+          # markdownlint config file
+          config: ".markdownlint.json"
         #   # Markdown files to scan
         #   files: # optional, default is **/*.{md,markdown}
         #   # Files or directories to ignore
