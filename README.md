@@ -1,14 +1,13 @@
 # Cyber-Security-University 🔐 🕵️ 🎓 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<p align="center">
+<div align="center">
 <img src="assets/purpleteam.png" />
 <br />
-<i>Because Education should be free.</i>
-</p>
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+<i>Because Education should be free. A curated list of awesome learn by doing resources to get educated on cyber security</i>
+<a><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
+<!-- <a href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Web 2.0-Website-yellow.svg" /></a>
+<a href="https://ipfs.io/ipfs/QmS6dTFMddKkNnPmixhXRLLCfhURYnnnWJupz5tRPbJg81" style="pointer-events: none;  cursor: default;"><img src="https://img.shields.io/badge/Web 3.0-Website-blue.svg"/></a> -->
+</div>
 
 # What's this about 🤔🤔?
 
@@ -283,6 +282,10 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#table-of-co
 **Inspired by** <https://skerritt.blog/free-rooms/>
 
 ## Contributors ✨
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
