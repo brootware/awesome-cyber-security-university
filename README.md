@@ -40,13 +40,13 @@ As you go through the curriculum, you will find completion badges that are hidde
 |[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) |
 |[Credits and Contributors](#-credits-and-contributors)|Here are awesome folks who contributed to this list! 🕵️|
 
-## [↑](##contents) Contributing
+## [↑](#contents) Contributing
 
 Pull requests are welcome with the condition that the resource should be free! Please read [Contribution guide in wiki](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
-## [↑](##contents) Introduction and Pre-Security
+## [↑](#contents) Introduction and Pre-Security
 
-### [↑](##contents) Level 1 - Intro
+### [↑](#contents) Level 1 - Intro
 
 * [ ] [OpenVPN](<https://tryhackme.com/room/openvpn>)
 * [ ] [Welcome](<https://tryhackme.com/jr/welcome>)
@@ -68,9 +68,9 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [OHsint](<https://tryhackme.com/room/ohsint>)
 * [ ] [Shodan.io](<https://tryhackme.com/room/shodan>)
 
-## [↑](##contents) Free-Beginner-Red-Team-Path
+## [↑](#contents) Free-Beginner-Red-Team-Path
 
-### [↑](##contents) Level 2 - Tooling
+### [↑](#contents) Level 2 - Tooling
 
 * [ ] [Tmux](<https://tryhackme.com/room/rptmux>)
 * [ ] [Nmap](<https://tryhackme.com/room/rpnmap>)
@@ -92,7 +92,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Simple CTF](<https://tryhackme.com/room/easyctf>)
 * [ ] [Bounty Hacker](<https://tryhackme.com/room/cowboyhacker>)
 
-### [↑](##contents) Level 3 - Crypto & Hashes with CTF practice
+### [↑](#contents) Level 3 - Crypto & Hashes with CTF practice
 
 * [ ] [Crack the hash](<https://tryhackme.com/room/crackthehash>)
 * [ ] [Agent Sudo](<https://tryhackme.com/room/agentsudoctf>)
@@ -101,7 +101,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Lazy Admin](<https://tryhackme.com/room/lazyadmin>)
 * [ ] [Basic Pentesting](<https://tryhackme.com/room/basicpentestingjt>)
 
-### [↑](##contents) Level 4 - Web
+### [↑](#contents) Level 4 - Web
 
 * [ ] [OWASP top 10](<https://tryhackme.com/room/owasptop10>)
 * [ ] [Inclusion](<https://tryhackme.com/room/inclusion>)
@@ -116,7 +116,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Jack of all trades](<https://tryhackme.com/room/jackofalltrades>)
 * [ ] [Bolt](<https://tryhackme.com/room/bolt>)
 
-### [↑](##contents) Level 5 - Reverse Engineering & Pwn
+### [↑](#contents) Level 5 - Reverse Engineering & Pwn
 
 * [ ] [Intro to x86 64](<https://tryhackme.com/room/introtox8664>)
 * [ ] [CC Ghidra](<https://tryhackme.com/room/ccghidra>)
@@ -128,7 +128,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Intro to pwntools](<https://tryhackme.com/room/introtopwntools>)
 * [ ] [Pwnkit: CVE-2021-4034](<https://tryhackme.com/room/pwnkit>)
 
-### [↑](##contents) Level 6 - PrivEsc
+### [↑](#contents) Level 6 - PrivEsc
 
 * [ ] [Sudo Security Bypass](<https://tryhackme.com/room/sudovulnsbypass>)
 * [ ] [Sudo Buffer Overflow](<https://tryhackme.com/room/sudovulnsbof>)
@@ -155,13 +155,13 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ```
 
-Copy above and add it to the [Free Beginner Red Team Path section](##contents) of the content page.
+Copy above and add it to the [Free Beginner Red Team Path section](#contents) of the content page.
 
 </details>
 
-## [↑](##contents) Free-Beginner-Blue-Team-Path
+## [↑](#contents) Free-Beginner-Blue-Team-Path
 
-### [↑](##contents) Level 1 - Tools
+### [↑](#contents) Level 1 - Tools
 
 * [ ] [Windows Fundamentals](<https://tryhackme.com/room/windowsfundamentals1xbx>)
 * [ ] [Nessus](<https://tryhackme.com/room/rpnessusredux>)
@@ -173,7 +173,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](##contents) o
 * [ ] [Red Line](<https://tryhackme.com/room/btredlinejoxr3d>)
 * [ ] [Autopsy](<https://tryhackme.com/room/autopsy2ze0>)
 
-### [↑](##contents) Level 2 - Security Operations & Incident Response
+### [↑](#contents) Level 2 - Security Operations & Incident Response
 
 * [ ] [Investigating Windows](<https://tryhackme.com/room/investigatingwindows>)
 * [ ] [Juicy Details](<https://tryhackme.com/room/juicydetails>)
@@ -183,7 +183,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](##contents) o
 * [ ] [Splunk Boss of the SOC V2](<https://cyberdefenders.org/blueteam-ctf-challenges/16>)
 * [ ] [Splunk Boss of the SOC V3](<https://cyberdefenders.org/blueteam-ctf-challenges/8>)
 
-### [↑](##contents) Level 3 - Beginner Forensics & Cryptography
+### [↑](#contents) Level 3 - Beginner Forensics & Cryptography
 
 * [ ] [Martryohka doll](<https://play.picoctf.org/practice/challenge/129?category=4&page=1&solved=0>)
 * [ ] [Glory of the Garden](<https://play.picoctf.org/practice/challenge/44?category=4&page=1&solved=0>)
@@ -198,7 +198,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](##contents) o
 * [ ] [Bucket - Cloud Security Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/84>)
 * [ ] [Introduction to Cryptohack](<https://cryptohack.org/courses/intro/course_details/>)
 
-### [↑](##contents) Level 4 - Memory & Disk Forensics
+### [↑](#contents) Level 4 - Memory & Disk Forensics
 
 * [ ] [Sleuthkit Intro](<https://play.picoctf.org/practice/challenge/301?category=4&page=2&solved=0>)
 * [ ] [Reminiscent](<https://app.hackthebox.com/challenges/reminiscent>)
@@ -208,7 +208,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](##contents) o
 * [ ] [Banking Troubles - Windows Memory Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/43>)
 * [ ] [Detect Log4J](<https://cyberdefenders.org/blueteam-ctf-challenges/86>)
 
-### [↑](##contents) Level 5 - Malware and Reverse Engineering
+### [↑](#contents) Level 5 - Malware and Reverse Engineering
 
 * [ ] [History of Malware](<https://tryhackme.com/room/historyofmalware>)
 * [ ] [Malware Introduction](<https://tryhackme.com/room/malmalintroductory>)
@@ -231,11 +231,11 @@ Copy above and add it to the [Free Beginner Red Team Path section](##contents) o
 
 ```
 
-Copy above and add it to the [Free Beginner Blue Team Path section](##contents) of the content page.
+Copy above and add it to the [Free Beginner Blue Team Path section](#contents) of the content page.
 
 </details>
 
-## [↑](##contents) Bonus CTF practice and Latest CVEs
+## [↑](#contents) Bonus CTF practice and Latest CVEs
 
 * [ ] [Post Exploitation Basics](<https://tryhackme.com/room/postexploit>)
 * [ ] [Smag Grotto](<https://tryhackme.com/room/smaggrotto>)
@@ -252,7 +252,7 @@ Copy above and add it to the [Free Beginner Blue Team Path section](##contents) 
 * [ ] [Spring4Shell](<https://tryhackme.com/room/spring4shell>)
 * [ ] [Most Recent threats](<https://tryhackme.com/module/recent-threats>)
 
-## [↑](##contents) Bonus Windows
+## [↑](#contents) Bonus Windows
 
 * [ ] [Attacktive Directory](<https://tryhackme.com/room/attacktivedirectory>)
 * [ ] [Retro](<https://tryhackme.com/room/retro>)
@@ -260,7 +260,7 @@ Copy above and add it to the [Free Beginner Blue Team Path section](##contents) 
 * [ ] [Anthem](<https://tryhackme.com/room/anthem>)
 * [ ] [Relevant](<https://tryhackme.com/room/relevant>)
 
-## [↑](##contents) Extremely-Hard-Rooms-to-do
+## [↑](#contents) Extremely-Hard-Rooms-to-do
 
 * [ ] [Ra](<https://tryhackme.com/room/ra>)
 * [ ] [Ra2](<https://tryhackme.com/room/ra2>)
@@ -278,7 +278,7 @@ Copy above and add it to the [Free Beginner Blue Team Path section](##contents) 
 * [ ] [Racetrack Bank](<https://tryhackme.com/room/racetrackbank>)
 * [ ] [Python Playground](<https://tryhackme.com/room/pythonplayground>)
 
-## [↑](##contents) Credits and Contributors
+## [↑](#contents) Credits and Contributors
 
 **Inspired by** <https://skerritt.blog/free-rooms/>
 
