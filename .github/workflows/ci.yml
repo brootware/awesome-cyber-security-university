@@ -23,10 +23,25 @@ jobs:
         with:
           config-file: ".mlc_config.json"
 
-  Awesome_Lint:
+  awesome-lint:
+    name: Awesome Lint
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
       - run: npx awesome-lint
+
+  # markdown-lint:
+  #   name: Markdown Lint
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Checkout
+  #       uses: actions/checkout@v3
+  #       with:
+  #         submodules: recursive
+
+  #     - uses: articulate/actions-markdownlint@v1.1.0
+  #       with:
+  #         # markdownlint config file
+  #         config: ".markdownlint.json"
