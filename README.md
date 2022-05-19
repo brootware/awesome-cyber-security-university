@@ -18,6 +18,7 @@ There are 6 parts to this. Introduction and Pre-security, Free Beginner Red Team
 
 To get started, Click on [`Use this template`](https://github.com/brootware/Cyber-Security-University/generate) button of this repository. Mark the tasks you have completed as below
 
+<!--lint disable awesome-list-item-->
 ```markdown
 - [x] [OpenVPN](<https://tryhackme.com/room/openvpn>
 ```
@@ -25,6 +26,7 @@ To get started, Click on [`Use this template`](https://github.com/brootware/Cybe
 It will look like this.
 
 * [x] [OpenVPN](<https://tryhackme.com/room/openvpn>)
+<!--lint enable awesome-list-item-->
 
 As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
 
@@ -79,7 +81,6 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Metasploit](<https://tryhackme.com/room/rpmetasploit>)
 * [ ] [Hydra](<https://tryhackme.com/room/hydra>)
 * [ ] [Linux Privesc](<https://tryhackme.com/room/linuxprivesc>)
-* [ ] [Web Scanning](<https://tryhackme.com/room/rpwebscanning>)
 * [ ] [Red Team Fundamentals](<https://tryhackme.com/room/redteamfundamentals>)
 * [ ] [Red Team Recon](<https://tryhackme.com/room/redteamrecon>)
 
@@ -106,10 +107,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [OWASP top 10](<https://tryhackme.com/room/owasptop10>)
 * [ ] [Inclusion](<https://tryhackme.com/room/inclusion>)
 * [ ] [Injection](<https://tryhackme.com/room/injection>)
-* [ ] [Vulnversity](<https://tryhackme.com/room/vulnversity>)
-* [ ] [Basic Pentesting](<https://tryhackme.com/room/basicpentestingjt>)
 * [ ] [Juiceshop](<https://tryhackme.com/room/owaspjuiceshop>)
-* [ ] [Ignite](<https://tryhackme.com/room/ignite>)
 * [ ] [Overpass](<https://tryhackme.com/room/overpass>)
 * [ ] [Year of the Rabbit](<https://tryhackme.com/room/yearoftherabbit>)
 * [ ] [DevelPy](<https://tryhackme.com/room/bsidesgtdevelpy>)
@@ -140,7 +138,6 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Kenobi](<https://tryhackme.com/room/kenobi>)
 * [ ] [Capture the flag](<https://tryhackme.com/room/c4ptur3th3fl4g>)
 * [ ] [Pickle Rick](<https://tryhackme.com/room/picklerick>)
-* [ ] [The Great Escape (Docker)](https://tryhackme.com/room/thegreatescape)
 
 > Congratulations!! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
 
@@ -239,11 +236,9 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#contents) o
 
 * [ ] [Post Exploitation Basics](<https://tryhackme.com/room/postexploit>)
 * [ ] [Smag Grotto](<https://tryhackme.com/room/smaggrotto>)
-* [ ] [Inclusion](<https://tryhackme.com/room/inclusion>)
 * [ ] [Dogcat](<https://tryhackme.com/room/dogcat>)
 * [ ] [LFI basics](<https://tryhackme.com/room/lfibasics>)
 * [ ] [Buffer Overflow Prep](<https://tryhackme.com/room/bufferoverflowprep>)
-* [ ] [Overpass](<https://tryhackme.com/room/overpass>)
 * [ ] [Break out the cage](<https://tryhackme.com/room/breakoutthecage1>)
 * [ ] [Lian Yu](<https://tryhackme.com/room/lianyu>)
 * [ ] [Insecure Kubernetes](<https://tryhackme.com/room/insekube>)
