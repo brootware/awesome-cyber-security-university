@@ -88,8 +88,8 @@ Pull requests are welcome with the condition that the resource should be free! P
 **Red Team Intro CTFs**
 <!-- markdownlint-enable MD036 -->
 
-* [ ] [Vulnversity -](<https://tryhackme.com/room/vulnversity>)
-* [ ] [Blue -](<https://tryhackme.com/room/blue>)
+* [ ] [Vulnversity](<https://tryhackme.com/room/vulnversity>)
+* [ ] [Blue](<https://tryhackme.com/room/blue>)
 * [ ] [Simple CTF](<https://tryhackme.com/room/easyctf>)
 * [ ] [Bounty Hacker](<https://tryhackme.com/room/cowboyhacker>)
 
