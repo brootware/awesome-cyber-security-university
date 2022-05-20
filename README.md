@@ -18,15 +18,15 @@ There are 6 parts to this. Introduction and Pre-security, Free Beginner Red Team
 
 To get started, Click on [`Use this template`](https://github.com/brootware/Cyber-Security-University/generate) button of this repository. Mark the tasks you have completed as below
 
+<!--lint disable no-undefined-references-->
 <!--lint disable double-link-->
 ```markdown
-* [x] [OpenVPN](<https://tryhackme.com/room/openvpn>) - A guide to connecting to a network using OpenVPN.
+* [x] [OpenVPN](<https://tryhackme.com/room/openvpn>)
 ```
 
 It will look like this.
 
-* [x] [OpenVPN](<https://tryhackme.com/room/openvpn>) - A guide to connecting to a network using OpenVPN.
-<!--lint enable double-link-->
+* [x] [OpenVPN](<https://tryhackme.com/room/openvpn>)
 
 As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
 
@@ -55,10 +55,10 @@ Pull requests are welcome with the condition that the resource should be free! P
 <!--lint enable double-link-->
 
 <!--lint disable double-link-->
-* [ ] [OpenVPN](<https://tryhackme.com/room/openvpn>) - A guide to connecting to a network using OpenVPN.
+* [ ] [OpenVPN](<https://tryhackme.com/room/openvpn>)
 <!--lint enable double-link-->
-* [ ] [Welcome](<https://tryhackme.com/jr/welcome>) - Learn how to use a TryHackMe room to start your upskilling in cyber security.
-* [ ] [Intro to Researching](<https://tryhackme.com/room/introtoresearch>) - A brief introduction to research skills for pentesting.
+* [ ] [Welcome](<https://tryhackme.com/jr/welcome>)
+* [ ] [Intro to Researching](<https://tryhackme.com/room/introtoresearch>)
 * [ ] [Linux Fundamentals 1](<https://tryhackme.com/room/linuxfundamentalspart1>)
 * [ ] [Linux Fundamentals 2](<https://tryhackme.com/room/linuxfundamentalspart2>)
 * [ ] [Linux Fundamentals 3](<https://tryhackme.com/room/linuxfundamentalspart3>)
@@ -167,12 +167,11 @@ Pull requests are welcome with the condition that the resource should be free! P
 <a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Red%20Team%20Path-red" /></a>
 
 ```
-
+<!--lint disable double-link-->
 Copy above and add it to the [Free Beginner Red Team Path section](#contents) of the content page.
 
 </details>
 
-<!--lint disable double-link-->
 ## [↑](#contents) Free-Beginner-Blue-Team-Path
 
 ### [↑](#contents) Level 1 - Tools
@@ -253,12 +252,11 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 <a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Blue%20Team%20Path-blue" /></a>
 
 ```
-
+<!--lint disable double-link-->
 Copy above and add it to the [Free Beginner Blue Team Path section](#contents) of the content page.
 
 </details>
 
-<!--lint disable double-link-->
 ## [↑](#contents) Bonus CTF practice and Latest CVEs
 <!--lint enable double-link-->
 
