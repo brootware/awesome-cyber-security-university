@@ -10,7 +10,7 @@
 <a href="https://ipfs.io/ipfs/QmS6dTFMddKkNnPmixhXRLLCfhURYnnnWJupz5tRPbJg81" style="pointer-events: none;  cursor: default;"><img src="https://img.shields.io/badge/Web 3.0-Website-blue.svg"/></a> -->
 </div>
 
-## What's this about 🤔🤔?
+## What's this about 🤔
 
 Cyber Security University is a curated list of free educational resources that focuses on learn by doing.
 
