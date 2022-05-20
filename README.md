@@ -20,16 +20,17 @@ To get started, Click on [`Use this template`](https://github.com/brootware/Cybe
 
 <!--lint disable double-link-->
 ```markdown
-* [x] [OpenVPN](<https://tryhackme.com/room/openvpn>
+* [x] [OpenVPN](<https://tryhackme.com/room/openvpn>) - An introduction to OpenVPN
 ```
 
 It will look like this.
 
-* [x] [OpenVPN](<https://tryhackme.com/room/openvpn>)
+* [x] [OpenVPN](<https://tryhackme.com/room/openvpn>) - An introduction to OpenVPN
 <!--lint enable double-link-->
 
 As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
 
+<!--lint disable awesome-toc-->
 ## Contents
 
 | Paths                              | Completion |
@@ -41,9 +42,11 @@ As you go through the curriculum, you will find completion badges that are hidde
 |[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
 |[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) |
 |[Credits and Contributors](#-credits-and-contributors)|Here are awesome folks who contributed to this list! 🕵️|
+<!--lint enable awesome-toc-->
 
+<!--lint enable double-link-->
 ## [↑](#contents) Contributing
-
+<!--lint disable double-link-->
 Pull requests are welcome with the condition that the resource should be free! Please read [Contribution guide in wiki](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
 ## [↑](#contents) Introduction and Pre-Security
