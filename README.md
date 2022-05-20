@@ -18,13 +18,15 @@ There are 6 parts to this. Introduction and Pre-security, Free Beginner Red Team
 
 To get started, Click on [`Use this template`](https://github.com/brootware/Cyber-Security-University/generate) button of this repository. Mark the tasks you have completed as below
 
-<!--lint disable awesome-list-item-->
 ```markdown
+<!--lint disable awesome-list-item-->
 - [x] [OpenVPN](<https://tryhackme.com/room/openvpn>
+<!--lint enable awesome-list-item-->
 ```
 
 It will look like this.
 
+<!--lint disable awesome-list-item-->
 * [x] [OpenVPN](<https://tryhackme.com/room/openvpn>)
 <!--lint enable awesome-list-item-->
 
