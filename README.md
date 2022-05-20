@@ -10,28 +10,6 @@
 <a href="https://ipfs.io/ipfs/QmS6dTFMddKkNnPmixhXRLLCfhURYnnnWJupz5tRPbJg81" style="pointer-events: none;  cursor: default;"><img src="https://img.shields.io/badge/Web 3.0-Website-blue.svg"/></a> -->
 </div>
 
-## What's this about 🤔
-
-Cyber Security University is a curated list of free educational resources that focuses on learn by doing.
-
-There are 6 parts to this. Introduction and Pre-security, Free Beginner Red Team Path, Free Beginner Blue Team Path, Bonus practices/latest CVEs and Extremely Hard rooms to do. The tasks are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
-
-To get started, Click on [`Use this template`](https://github.com/brootware/Cyber-Security-University/generate) button of this repository. Mark the tasks you have completed as below
-
-```markdown
-<!--lint disable double-link-->
-- [x] [OpenVPN](<https://tryhackme.com/room/openvpn>
-<!--lint enable double-link-->
-```
-
-It will look like this.
-
-<!--lint disable double-link-->
-* [x] [OpenVPN](<https://tryhackme.com/room/openvpn>)
-<!--lint enable double-link-->
-
-As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
-
 ## Contents
 
 | Paths                              | Completion |
@@ -44,7 +22,31 @@ As you go through the curriculum, you will find completion badges that are hidde
 |[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) |
 |[Credits and Contributors](#-credits-and-contributors)|Here are awesome folks who contributed to this list! 🕵️|
 
+## What's this about 🤔
+
+Cyber Security University is a curated list of free educational resources that focuses on learn by doing.
+
+There are 6 parts to this. Introduction and Pre-security, Free Beginner Red Team Path, Free Beginner Blue Team Path, Bonus practices/latest CVEs and Extremely Hard rooms to do. The tasks are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
+
+To get started, Click on [`Use this template`](https://github.com/brootware/Cyber-Security-University/generate) button of this repository. Mark the tasks you have completed as below
+
+<!--lint disable double-link-->
+```markdown
+* [x] [OpenVPN](<https://tryhackme.com/room/openvpn>
+
+```
+
+It will look like this.
+
+* [x] [OpenVPN](<https://tryhackme.com/room/openvpn>)
+<!--lint enable double-link-->
+
+As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
+
+<!--lint disable double-link-->
 ## [↑](#contents) Contributing
+
+<!--lint enable double-link-->
 
 Pull requests are welcome with the condition that the resource should be free! Please read [Contribution guide in wiki](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
