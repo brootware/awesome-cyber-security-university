@@ -44,14 +44,15 @@ As you go through the curriculum, you will find completion badges that are hidde
 |[Credits and Contributors](#-credits-and-contributors)|Here are awesome folks who contributed to this list! 🕵️|
 <!--lint enable awesome-toc-->
 
-<!--lint enable double-link-->
-## [↑](#contents) Contributing
 <!--lint disable double-link-->
+## [↑](#contents) Contributing
+
 Pull requests are welcome with the condition that the resource should be free! Please read [Contribution guide in wiki](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
 ## [↑](#contents) Introduction and Pre-Security
 
 ### [↑](#contents) Level 1 - Intro
+<!--lint enable double-link-->
 
 * [ ] [OpenVPN](<https://tryhackme.com/room/openvpn>)
 * [ ] [Welcome](<https://tryhackme.com/jr/welcome>)
@@ -142,7 +143,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Capture the flag](<https://tryhackme.com/room/c4ptur3th3fl4g>)
 * [ ] [Pickle Rick](<https://tryhackme.com/room/picklerick>)
 
-> Congratulations!! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
+> Congratulations! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
 
 <details>
   <summary>Click here to get your red team badge!</summary>
@@ -218,7 +219,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 * [ ] [JVM reverse engineering](<https://tryhackme.com/room/jvmreverseengineering>)
 * [ ] [Get PDF (Malicious Document)](<https://cyberdefenders.org/blueteam-ctf-challenges/47>)
 
-> Congratulations!! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
+> Congratulations! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
 
 <details>
   <summary>Click here to get your blue team badge!</summary>
