@@ -30,7 +30,6 @@ It will look like this.
 
 As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
 
-<!--lint disable awesome-toc-->
 ## Contents
 
 | Paths                              | Completion |
@@ -41,7 +40,6 @@ As you go through the curriculum, you will find completion badges that are hidde
 |[Bonus CTF practice & Latest CVEs](#-bonus-ctf-practice-and-latest-cves)|(Completed/In Progress)|
 |[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
 |[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) |
-<!--lint enable awesome-toc-->
 
 <!--lint disable double-link-->
 ## [↑](#contents) Contributing
