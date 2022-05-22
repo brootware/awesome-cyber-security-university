@@ -12,7 +12,7 @@
 
 ## Contents
 
-* [What's this about 🤔](#whats-this-about-🤔)
+* [What's this about 🤔](#whats-this-about)
 * [Introduction and Pre-Security](#-introduction-and-pre-security)
 * [Free Beginner Red Team Path](#-free-beginner-red-team-path)
 * [Free Beginner Blue Team Path](#-free-beginner-blue-team-path)
@@ -29,7 +29,9 @@
 |[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
 |[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) | -->
 
-## What's this about 🤔
+<!--lint disable double-link-->
+## [↑](#contents) What's this about
+<!--lint enable double-link-->
 
 Cyber Security University is A curated list of awesome and free educational resources that focuses on learn by doing.
 
