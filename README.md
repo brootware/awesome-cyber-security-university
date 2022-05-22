@@ -61,26 +61,26 @@ Pull requests are welcome with the condition that the resource should be free! P
 ### Level 1 - Intro
 
 <!--lint disable double-link-->
-* [ ] [OpenVPN](<https://tryhackme.com/room/openvpn>)
+* [ ] [OpenVPN](<https://tryhackme.com/room/openvpn>) - Learn how to connect to a virtual private network using openvpn
 <!--lint enable double-link-->
-* [ ] [Welcome](<https://tryhackme.com/jr/welcome>)
-* [ ] [Intro to Researching](<https://tryhackme.com/room/introtoresearch>)
-* [ ] [Linux Fundamentals 1](<https://tryhackme.com/room/linuxfundamentalspart1>)
-* [ ] [Linux Fundamentals 2](<https://tryhackme.com/room/linuxfundamentalspart2>)
-* [ ] [Linux Fundamentals 3](<https://tryhackme.com/room/linuxfundamentalspart3>)
-* [ ] [Pentesting fundamentals](<https://tryhackme.com/room/pentestingfundamentals>)
-* [ ] [Principles of security](<https://tryhackme.com/room/principlesofsecurity>)
-* [ ] [Introduction to defensive security](<https://tryhackme.com/room/defensivesecurity>)
-* [ ] [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>)
-* [ ] [Crash Course Pentesting](<https://tryhackme.com/room/ccpentesting>)
+* [ ] [Welcome](<https://tryhackme.com/jr/welcome>) - Learn how to use a TryHackMe room to start your upskilling in cyber security.
+* [ ] [Intro to Researching](<https://tryhackme.com/room/introtoresearch>) - A brief introduction to research skills for pentesting.
+* [ ] [Linux Fundamentals 1](<https://tryhackme.com/room/linuxfundamentalspart1>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
+* [ ] [Linux Fundamentals 2](<https://tryhackme.com/room/linuxfundamentalspart2>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
+* [ ] [Linux Fundamentals 3](<https://tryhackme.com/room/linuxfundamentalspart3>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.
+* [ ] [Pentesting fundamentals](<https://tryhackme.com/room/pentestingfundamentals>) - Fundamentals of penetration testing.
+* [ ] [Principles of security](<https://tryhackme.com/room/principlesofsecurity>) - Principles of security.
+* [ ] [Introduction to defensive security](<https://tryhackme.com/room/defensivesecurity>) - Intro to defensive security.
+* [ ] [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>) - Intro to red team engagements.
+* [ ] [Crash Course Pentesting](<https://tryhackme.com/room/ccpentesting>) - Intro crash course to penetration testing.
 
 <!-- markdownlint-disable MD036 -->
 **Introductory CTFs to get your feet wet**
 <!-- markdownlint-enable MD036 -->
 
-* [ ] [Google Dorking](<https://tryhackme.com/room/googledorking>)
-* [ ] [OHsint](<https://tryhackme.com/room/ohsint>)
-* [ ] [Shodan.io](<https://tryhackme.com/room/shodan>)
+* [ ] [Google Dorking](<https://tryhackme.com/room/googledorking>) - Explaining how Search Engines work and leveraging them into finding hidden content!
+* [ ] [OHsint](<https://tryhackme.com/room/ohsint>) - Intro to Open Source Intelligence
+* [ ] [Shodan.io](<https://tryhackme.com/room/shodan>) - Learn about Shodan.io and how to use it for devices enumeration - is your coffee machine publicly accessible?
 
 <!--lint disable double-link-->
 [↑](#contents)
@@ -89,66 +89,66 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ### Level 2 - Tooling
 
-* [ ] [Tmux](<https://tryhackme.com/room/rptmux>)
-* [ ] [Nmap](<https://tryhackme.com/room/rpnmap>)
-* [ ] [Web Scanning](<https://tryhackme.com/room/rpwebscanning>)
-* [ ] [Sublist3r](<https://tryhackme.com/room/rpsublist3r>)
-* [ ] [Metasploit](<https://tryhackme.com/room/rpmetasploit>)
-* [ ] [Hydra](<https://tryhackme.com/room/hydra>)
-* [ ] [Linux Privesc](<https://tryhackme.com/room/linuxprivesc>)
-* [ ] [Red Team Fundamentals](<https://tryhackme.com/room/redteamfundamentals>)
-* [ ] [Red Team Recon](<https://tryhackme.com/room/redteamrecon>)
+* [ ] [Tmux](<https://tryhackme.com/room/rptmux>) - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
+* [ ] [Nmap](<https://tryhackme.com/room/rpnmap>) - Get experience with Nmap, a powerful network scanning tool.
+* [ ] [Web Scanning](<https://tryhackme.com/room/rpwebscanning>) - Learn the basics of automated web scanning.
+* [ ] [Sublist3r](<https://tryhackme.com/room/rpsublist3r>) - Learn how to find subdomains with Sublist3r.
+* [ ] [Metasploit](<https://tryhackme.com/room/rpmetasploit>) - An introduction to the main components of the Metasploit Framework.
+* [ ] [Hydra](<https://tryhackme.com/room/hydra>) - Learn about and use Hydra, a fast network logon cracker, to bruteforce and obtain a website's credentials.
+* [ ] [Linux Privesc](<https://tryhackme.com/room/linuxprivesc>) - Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root! SSH is available.
+* [ ] [Red Team Fundamentals](<https://tryhackme.com/room/redteamfundamentals>) - Learn about the basics of a red engagement, the main components and stakeholders involved, and how red teaming differs from other cyber security engagements.
+* [ ] [Red Team Recon](<https://tryhackme.com/room/redteamrecon>) - Learn how to use DNS, advanced searching, Recon-ng, and Maltego to collect information about your target.
 
 <!-- markdownlint-disable MD036 -->
 **Red Team Intro CTFs**
 <!-- markdownlint-enable MD036 -->
 
-* [ ] [Vulnversity](<https://tryhackme.com/room/vulnversity>)
-* [ ] [Blue](<https://tryhackme.com/room/blue>)
-* [ ] [Simple CTF](<https://tryhackme.com/room/easyctf>)
-* [ ] [Bounty Hacker](<https://tryhackme.com/room/cowboyhacker>)
+* [ ] [Vulnversity](<https://tryhackme.com/room/vulnversity>) - Learn about active recon, web app attacks and privilege escalation.
+* [ ] [Blue](<https://tryhackme.com/room/blue>) - Deploy & hack into a Windows machine, leveraging common misconfigurations issues.
+* [ ] [Simple CTF](<https://tryhackme.com/room/easyctf>) - Beginner level ctf.
+* [ ] [Bounty Hacker](<https://tryhackme.com/room/cowboyhacker>) - You talked a big game about being the most elite hacker in the solar system. Prove it and claim your right to the status of Elite Bounty Hacker.
 
 <!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
 ### Level 3 - Crypto & Hashes with CTF practice
 
-* [ ] [Crack the hash](<https://tryhackme.com/room/crackthehash>)
-* [ ] [Agent Sudo](<https://tryhackme.com/room/agentsudoctf>)
-* [ ] [The Cod Caper](<https://tryhackme.com/room/thecodcaper>)
-* [ ] [Ice](<https://tryhackme.com/room/ice>)
-* [ ] [Lazy Admin](<https://tryhackme.com/room/lazyadmin>)
-* [ ] [Basic Pentesting](<https://tryhackme.com/room/basicpentestingjt>)
+* [ ] [Crack the hash](<https://tryhackme.com/room/crackthehash>) - Cracking hash challenges.
+* [ ] [Agent Sudo](<https://tryhackme.com/room/agentsudoctf>) - You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.
+* [ ] [The Cod Caper](<https://tryhackme.com/room/thecodcaper>) - A guided room taking you through infiltrating and exploiting a Linux system.
+* [ ] [Ice](<https://tryhackme.com/room/ice>) - Deploy & hack into a Windows machine, exploiting a very poorly secured media server.
+* [ ] [Lazy Admin](<https://tryhackme.com/room/lazyadmin>) - Easy linux machine to practice your skills.
+* [ ] [Basic Pentesting](<https://tryhackme.com/room/basicpentestingjt>) - This is a machine that allows you to practise web app hacking and privilege escalation.
 
 <!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
 ### Level 4 - Web
 
-* [ ] [OWASP top 10](<https://tryhackme.com/room/owasptop10>)
-* [ ] [Inclusion](<https://tryhackme.com/room/inclusion>)
-* [ ] [Injection](<https://tryhackme.com/room/injection>)
-* [ ] [Juiceshop](<https://tryhackme.com/room/owaspjuiceshop>)
-* [ ] [Overpass](<https://tryhackme.com/room/overpass>)
-* [ ] [Year of the Rabbit](<https://tryhackme.com/room/yearoftherabbit>)
-* [ ] [DevelPy](<https://tryhackme.com/room/bsidesgtdevelpy>)
-* [ ] [Jack of all trades](<https://tryhackme.com/room/jackofalltrades>)
-* [ ] [Bolt](<https://tryhackme.com/room/bolt>)
+* [ ] [OWASP top 10](<https://tryhackme.com/room/owasptop10>) - Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks.
+* [ ] [Inclusion](<https://tryhackme.com/room/inclusion>) - A beginner level LFI challenge.
+* [ ] [Injection](<https://tryhackme.com/room/injection>) - Walkthrough of OS Command Injection. Demonstrate OS Command Injection and explain how to prevent it on your servers.
+* [ ] [Juiceshop](<https://tryhackme.com/room/owaspjuiceshop>) - This room uses the Juice Shop vulnerable web application to learn how to identify and exploit common web application vulnerabilities.
+* [ ] [Overpass](<https://tryhackme.com/room/overpass>) - What happens when some broke CompSci students make a password manager.
+* [ ] [Year of the Rabbit](<https://tryhackme.com/room/yearoftherabbit>) - Can you hack into the Year of the Rabbit box without falling down a hole.
+* [ ] [DevelPy](<https://tryhackme.com/room/bsidesgtdevelpy>) - boot2root machine for FIT and bsides Guatemala CTF.
+* [ ] [Jack of all trades](<https://tryhackme.com/room/jackofalltrades>) - Boot-to-root originally designed for Securi-Tay 2020.
+* [ ] [Bolt](<https://tryhackme.com/room/bolt>) - Bolt themed machine to root into.
 
 <!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
 ### Level 5 - Reverse Engineering & Pwn
 
-* [ ] [Intro to x86 64](<https://tryhackme.com/room/introtox8664>)
-* [ ] [CC Ghidra](<https://tryhackme.com/room/ccghidra>)
-* [ ] [CC Radare2](<https://tryhackme.com/room/ccradare2>)
+* [ ] [Intro to x86 64](<https://tryhackme.com/room/introtox8664>) - This room teaches the basics of x86-64 assembly language.
+* [ ] [CC Ghidra](<https://tryhackme.com/room/ccghidra>) - This room teaches basics of ghidar.
+* [ ] [CC Radare2](<https://tryhackme.com/room/ccradare2>) - This room teaches basics of radare2.
 * [ ] [CC Steganography](<https://tryhackme.com/room/ccstego>)
-* [ ] [Reverse Engineering](<https://tryhackme.com/room/reverseengineering>)
-* [ ] [Reversing ELF](<https://tryhackme.com/room/reverselfiles>)
-* [ ] [Dumping Router Firmware](<https://tryhackme.com/room/rfirmware>)
-* [ ] [Intro to pwntools](<https://tryhackme.com/room/introtopwntools>)
-* [ ] [Pwnkit: CVE-2021-4034](<https://tryhackme.com/room/pwnkit>)
+* [ ] [Reverse Engineering](<https://tryhackme.com/room/reverseengineering>) - This room focuses on teaching the basics of assembly through reverse engineering.
+* [ ] [Reversing ELF](<https://tryhackme.com/room/reverselfiles>) - Room for beginner Reverse Engineering CTF players.
+* [ ] [Dumping Router Firmware](<https://tryhackme.com/room/rfirmware>) - Reverse engineering router firmware.
+* [ ] [Intro to pwntools](<https://tryhackme.com/room/introtopwntools>) - Introduction to popular pwn tools framework.
+* [ ] [Pwnkit: CVE-2021-4034](<https://tryhackme.com/room/pwnkit>) - Interactive lab for exploiting and remediating Pwnkit (CVE-2021-4034) in the Polkit package.
 
 <!--lint disable double-link-->
 [↑](#contents)
@@ -156,16 +156,16 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ### Level 6 - PrivEsc
 
-* [ ] [Sudo Security Bypass](<https://tryhackme.com/room/sudovulnsbypass>)
-* [ ] [Sudo Buffer Overflow](<https://tryhackme.com/room/sudovulnsbof>)
-* [ ] [Windows Privesc Arena](<https://tryhackme.com/room/windowsprivescarena>)
-* [ ] [Linux Privesc Arena](<https://tryhackme.com/room/linuxprivescarena>)
-* [ ] [Windows Privesc](<https://tryhackme.com/room/windows10privesc>)
-* [ ] [Blaster](<https://tryhackme.com/room/blaster>)
-* [ ] [Ignite](<https://tryhackme.com/room/ignite>)
-* [ ] [Kenobi](<https://tryhackme.com/room/kenobi>)
-* [ ] [Capture the flag](<https://tryhackme.com/room/c4ptur3th3fl4g>)
-* [ ] [Pickle Rick](<https://tryhackme.com/room/picklerick>)
+* [ ] [Sudo Security Bypass](<https://tryhackme.com/room/sudovulnsbypass>) - A tutorial room exploring CVE-2019-14287 in the Unix Sudo Program. Room One in the SudoVulns Series.
+* [ ] [Sudo Buffer Overflow](<https://tryhackme.com/room/sudovulnsbof>) - A tutorial room exploring CVE-2019-18634 in the Unix Sudo Program. Room Two in the SudoVulns Series.
+* [ ] [Windows Privesc Arena](<https://tryhackme.com/room/windowsprivescarena>) - Students will learn how to escalate privileges using a very vulnerable Windows 7 VM.
+* [ ] [Linux Privesc Arena](<https://tryhackme.com/room/linuxprivescarena>) - Students will learn how to escalate privileges using a very vulnerable Linux VM.
+* [ ] [Windows Privesc](<https://tryhackme.com/room/windows10privesc>) - Students will learn how to escalate privileges using a very vulnerable Windows 7 VM.
+* [ ] [Blaster](<https://tryhackme.com/room/blaster>) - Metasploit framework to get a foothold.
+* [ ] [Ignite](<https://tryhackme.com/room/ignite>) - A new start-up has a few issues with their web server.
+* [ ] [Kenobi](<https://tryhackme.com/room/kenobi>) - Walkthrough on exploiting a Linux machine. Enumerate Samba for shares, manipulate a vulnerable version of proftpd and escalate your privileges with path variable manipulation.
+* [ ] [Capture the flag](<https://tryhackme.com/room/c4ptur3th3fl4g>) - Another beginner level CTF challenge.
+* [ ] [Pickle Rick](<https://tryhackme.com/room/picklerick>) -  Rick and Morty themed LFI challenge.
 
 > Congratulations! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
 
@@ -190,28 +190,28 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 
 ### Level 1 - Tools
 
-* [ ] [Windows Fundamentals](<https://tryhackme.com/room/windowsfundamentals1xbx>)
-* [ ] [Nessus](<https://tryhackme.com/room/rpnessusredux>)
-* [ ] [Mitre](<https://tryhackme.com/room/mitre>)
-* [ ] [Yara](<https://tryhackme.com/room/yara>)
-* [ ] [OpenVAS](<https://tryhackme.com/room/openvas>)
-* [ ] [Intro to Honeypots](<https://tryhackme.com/room/introductiontohoneypots>)
-* [ ] [Volatility](<https://tryhackme.com/room/bpvolatility>)
-* [ ] [Red Line](<https://tryhackme.com/room/btredlinejoxr3d>)
-* [ ] [Autopsy](<https://tryhackme.com/room/autopsy2ze0>)
+* [ ] [Windows Fundamentals](<https://tryhackme.com/room/windowsfundamentals1xbx>) -  Intro to windows.
+* [ ] [Nessus](<https://tryhackme.com/room/rpnessusredux>) - Intro to nessus scan.
+* [ ] [Mitre](<https://tryhackme.com/room/mitre>) -  Intro to Mitre attack framework.
+* [ ] [Yara](<https://tryhackme.com/room/yara>) -  Intro to yara for malware analysis.
+* [ ] [OpenVAS](<https://tryhackme.com/room/openvas>) - Intro to openvas.
+* [ ] [Intro to Honeypots](<https://tryhackme.com/room/introductiontohoneypots>) -  Intro to honeypots.
+* [ ] [Volatility](<https://tryhackme.com/room/bpvolatility>) - Intro to memory analysis with volatility.
+* [ ] [Red Line](<https://tryhackme.com/room/btredlinejoxr3d>) - Learn how to use Redline to perform memory analysis and to scan for IOCs on an endpoint.
+* [ ] [Autopsy](<https://tryhackme.com/room/autopsy2ze0>) -
 
 <!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
 ### Level 2 - Security Operations & Incident Response
 
-* [ ] [Investigating Windows](<https://tryhackme.com/room/investigatingwindows>)
-* [ ] [Juicy Details](<https://tryhackme.com/room/juicydetails>)
-* [ ] [Carnage](<https://tryhackme.com/room/c2carnage>)
-* [ ] [Squid Game](<https://tryhackme.com/room/squidgameroom>)
-* [ ] [Splunk Boss of the SOC V1](<https://tryhackme.com/room/bpsplunk>)
-* [ ] [Splunk Boss of the SOC V2](<https://cyberdefenders.org/blueteam-ctf-challenges/16>)
-* [ ] [Splunk Boss of the SOC V3](<https://cyberdefenders.org/blueteam-ctf-challenges/8>)
+* [ ] [Investigating Windows](<https://tryhackme.com/room/investigatingwindows>) - Investigating windows.
+* [ ] [Juicy Details](<https://tryhackme.com/room/juicydetails>) -A popular juice shop has been breached! Analyze the logs to see what had happened.
+* [ ] [Carnage](<https://tryhackme.com/room/c2carnage>) - Apply your analytical skills to analyze the malicious network traffic using Wireshark.
+* [ ] [Squid Game](<https://tryhackme.com/room/squidgameroom>) - Squid game themed CTF.
+* [ ] [Splunk Boss of the SOC V1](<https://tryhackme.com/room/bpsplunk>) - Part of the Blue Primer series, learn how to use Splunk to search through massive amounts of information.
+* [ ] [Splunk Boss of the SOC V2](<https://cyberdefenders.org/blueteam-ctf-challenges/16>) - Splunk analysis vol 2.
+* [ ] [Splunk Boss of the SOC V3](<https://cyberdefenders.org/blueteam-ctf-challenges/8>) - Splunk analysis vol 3.
 
 <!--lint disable double-link-->
 [↑](#contents)
@@ -219,44 +219,44 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 
 ### Level 3 - Beginner Forensics & Cryptography
 
-* [ ] [Martryohka doll](<https://play.picoctf.org/practice/challenge/129?category=4&page=1&solved=0>)
-* [ ] [Glory of the Garden](<https://play.picoctf.org/practice/challenge/44?category=4&page=1&solved=0>)
-* [ ] [Packets Primer](<https://play.picoctf.org/practice/challenge/286?category=4&page=2&solved=0>)
-* [ ] [Wireshark doo doo doo](<https://play.picoctf.org/practice/challenge/115?category=4&page=1&solved=0>)
-* [ ] [Wireshark two two two](<https://play.picoctf.org/practice/challenge/110?category=4&page=1&solved=0>)
-* [ ] [Trivial flag transfer protocol](<https://play.picoctf.org/practice/challenge/103?category=4&page=1&solved=0>)
-* [ ] [What Lies within](<https://play.picoctf.org/practice/challenge/74?category=4&page=2&solved=0>)
-* [ ] [Illumination](<https://app.hackthebox.com/challenges/illumination>)
-* [ ] [Emo](<https://app.hackthebox.com/challenges/emo>)
-* [ ] [Obsecure](<https://app.hackthebox.com/challenges/obscure>)
-* [ ] [Bucket - Cloud Security Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/84>)
-* [ ] [Introduction to Cryptohack](<https://cryptohack.org/courses/intro/course_details/>)
+* [ ] [Martryohka doll](<https://play.picoctf.org/practice/challenge/129?category=4&page=1&solved=0>) - Beginner file analysis challenge.
+* [ ] [Glory of the Garden](<https://play.picoctf.org/practice/challenge/44?category=4&page=1&solved=0>) - Beginner image analysis challenge.
+* [ ] [Packets Primer](<https://play.picoctf.org/practice/challenge/286?category=4&page=2&solved=0>) - Beginner packet analysis challenge.
+* [ ] [Wireshark doo doo doo](<https://play.picoctf.org/practice/challenge/115?category=4&page=1&solved=0>) - Beginner packet analysis challenge.
+* [ ] [Wireshark two two two](<https://play.picoctf.org/practice/challenge/110?category=4&page=1&solved=0>) - Beginner packet analysis challenge.
+* [ ] [Trivial flag transfer protocol](<https://play.picoctf.org/practice/challenge/103?category=4&page=1&solved=0>) - Beginner packet analysis challenge.
+* [ ] [What Lies within](<https://play.picoctf.org/practice/challenge/74?category=4&page=2&solved=0>) - Beginner decoding analysis challenge.
+* [ ] [Illumination](<https://app.hackthebox.com/challenges/illumination>) - Medium level forensics challenge.
+* [ ] [Emo](<https://app.hackthebox.com/challenges/emo>) - Medium level forensics challenge.
+* [ ] [Obsecure](<https://app.hackthebox.com/challenges/obscure>) - Medium level forensics challenge.
+* [ ] [Bucket - Cloud Security Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/84>) - Medium level cloud security challenge
+* [ ] [Introduction to Cryptohack](<https://cryptohack.org/courses/intro/course_details/>) - Medium level cryptography challenge.
 
 <!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
 ### Level 4 - Memory & Disk Forensics
 
-* [ ] [Sleuthkit Intro](<https://play.picoctf.org/practice/challenge/301?category=4&page=2&solved=0>)
-* [ ] [Reminiscent](<https://app.hackthebox.com/challenges/reminiscent>)
-* [ ] [Hunter - Windows Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/32>)
-* [ ] [Spotlight - Mac Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/34>)
-* [ ] [Ulysses -  Linux Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/41>)
-* [ ] [Banking Troubles - Windows Memory Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/43>)
-* [ ] [Detect Log4J](<https://cyberdefenders.org/blueteam-ctf-challenges/86>)
+* [ ] [Sleuthkit Intro](<https://play.picoctf.org/practice/challenge/301?category=4&page=2&solved=0>) - Medium level disk forensics challenge.
+* [ ] [Reminiscent](<https://app.hackthebox.com/challenges/reminiscent>) - Medium level disk forensics challenge.
+* [ ] [Hunter - Windows Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/32>) - Medium level disk forensics challenge.
+* [ ] [Spotlight - Mac Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/34>) - Medium level disk forensics challenge.
+* [ ] [Ulysses -  Linux Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/41>) - Medium level disk forensics challenge.
+* [ ] [Banking Troubles - Windows Memory Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/43>) - Medium level memory forensics challenge.
+* [ ] [Detect Log4J](<https://cyberdefenders.org/blueteam-ctf-challenges/86>)  - Medium level disk forensics challenge.
 
 <!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
 ### Level 5 - Malware and Reverse Engineering
 
-* [ ] [History of Malware](<https://tryhackme.com/room/historyofmalware>)
-* [ ] [Malware Introduction](<https://tryhackme.com/room/malmalintroductory>)
-* [ ] [Basic Malware Reverse Engineering](<https://tryhackme.com/room/basicmalwarere>)
-* [ ] [Intro Windows Reversing](<https://tryhackme.com/room/windowsreversingintro>)
-* [ ] [Windows x64 Assembly](<https://tryhackme.com/room/win64assembly>)
-* [ ] [JVM reverse engineering](<https://tryhackme.com/room/jvmreverseengineering>)
-* [ ] [Get PDF (Malicious Document)](<https://cyberdefenders.org/blueteam-ctf-challenges/47>)
+* [ ] [History of Malware](<https://tryhackme.com/room/historyofmalware>) - Intro to malware history.
+* [ ] [Malware Introduction](<https://tryhackme.com/room/malmalintroductory>) - Intro to malware.
+* [ ] [Basic Malware Reverse Engineering](<https://tryhackme.com/room/basicmalwarere>) - Intro to malware RE.
+* [ ] [Intro Windows Reversing](<https://tryhackme.com/room/windowsreversingintro>) - Intro to windows RE.
+* [ ] [Windows x64 Assembly](<https://tryhackme.com/room/win64assembly>) - Introduction to x64 Assembly on Windows.
+* [ ] [JVM reverse engineering](<https://tryhackme.com/room/jvmreverseengineering>) - Learn Reverse Engineering for Java Virtual Machine bytecode
+* [ ] [Get PDF (Malicious Document)](<https://cyberdefenders.org/blueteam-ctf-challenges/47>) - Reversing PDF Malware.
 
 > Congratulations! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
 
