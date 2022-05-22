@@ -12,7 +12,7 @@
 
 ## Contents
 
-* [What's this about](#-whats-this-about)
+* [about](#-about)
 * [Introduction and Pre-Security](#-introduction-and-pre-security) - (Completed/In Progress)
 * [Free Beginner Red Team Path](#-free-beginner-red-team-path) - (Add your badge here. Badge code is hidden in this repo)
 * [Free Beginner Blue Team Path](#-free-beginner-blue-team-path) - (Add your badge here. Badge code is hidden in this repo)
@@ -29,9 +29,7 @@
 |[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
 |[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) | -->
 
-<!--lint disable double-link-->
-## What's this about
-<!--lint enable double-link-->
+## About
 
 Cyber Security University is A curated list of awesome and free educational resources that focuses on learn by doing.
 
