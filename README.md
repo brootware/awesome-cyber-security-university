@@ -143,7 +143,6 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Intro to x86 64](<https://tryhackme.com/room/introtox8664>) - This room teaches the basics of x86-64 assembly language.
 * [ ] [CC Ghidra](<https://tryhackme.com/room/ccghidra>) - This room teaches basics of ghidar.
 * [ ] [CC Radare2](<https://tryhackme.com/room/ccradare2>) - This room teaches basics of radare2.
-* [ ] [CC Steganography](<https://tryhackme.com/room/ccstego>)
 * [ ] [Reverse Engineering](<https://tryhackme.com/room/reverseengineering>) - This room focuses on teaching the basics of assembly through reverse engineering.
 * [ ] [Reversing ELF](<https://tryhackme.com/room/reverselfiles>) - Room for beginner Reverse Engineering CTF players.
 * [ ] [Dumping Router Firmware](<https://tryhackme.com/room/rfirmware>) - Reverse engineering router firmware.
@@ -280,10 +279,9 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#contents) o
 
 ## Bonus CTF practice and Latest CVEs
 
-* [ ] [Post Exploitation Basics](<https://tryhackme.com/room/postexploit>)
-* [ ] [Smag Grotto](<https://tryhackme.com/room/smaggrotto>)
-* [ ] [Dogcat](<https://tryhackme.com/room/dogcat>)
-* [ ] [LFI basics](<https://tryhackme.com/room/lfibasics>)
+* [ ] [Post Exploitation Basics](<https://tryhackme.com/room/postexploit>) - Learn the basics of post-exploitation and maintaining access with mimikatz, bloodhound, powerview and msfvenom.
+* [ ] [Smag Grotto](<https://tryhackme.com/room/smaggrotto>) - An obsecure boot2root machine.
+* [ ] [Dogcat](<https://tryhackme.com/room/dogcat>) - I made a website where you can look at pictures of dogs and/or cats! Exploit a PHP application via LFI and break out of a docker container.
 * [ ] [Buffer Overflow Prep](<https://tryhackme.com/room/bufferoverflowprep>)
 * [ ] [Break out the cage](<https://tryhackme.com/room/breakoutthecage1>)
 * [ ] [Lian Yu](<https://tryhackme.com/room/lianyu>)
