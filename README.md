@@ -30,7 +30,7 @@
 |[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) | -->
 
 <!--lint disable double-link-->
-## [↑](#contents) What's this about
+## What's this about
 <!--lint enable double-link-->
 
 Cyber Security University is A curated list of awesome and free educational resources that focuses on learn by doing.
@@ -50,6 +50,8 @@ It will look like this.
 * [x] [OpenVPN](<https://tryhackme.com/room/openvpn>)
 
 As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
+
+[↑](#contents)
 
 <!--lint disable double-link-->
 ## [↑](#contents) Contributing
