@@ -338,6 +338,12 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#contents) o
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+Special thanks to everyone who forked or starred the repository ❤️
+
+[![Stargazers repo roster for @brootware/cyber-security-university](https://reporoster.com/stars/dark/brootware/cyber-security-university)](https://github.com/brootware/cyber-security-university/stargazers)
+
+[![Forkers repo roster for @brootware/cyber-security-university](https://reporoster.com/forks/dark/brootware/cyber-security-university)](https://github.com/brootware/cyber-security-university/network/members)
+
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
