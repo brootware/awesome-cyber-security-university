@@ -10,7 +10,26 @@
 <a href="https://ipfs.io/ipfs/QmS6dTFMddKkNnPmixhXRLLCfhURYnnnWJupz5tRPbJg81" style="pointer-events: none;  cursor: default;"><img src="https://img.shields.io/badge/Web 3.0-Website-blue.svg"/></a> -->
 </div>
 
-## What's this about 🤔
+## Contents
+
+* [About](#about)
+* [Introduction and Pre-Security](#introduction-and-pre-security) - (Completed/In Progress)
+* [Free Beginner Red Team Path](#free-beginner-red-team-path) - (Add your badge here. Badge code is hidden in this repo)
+* [Free Beginner Blue Team Path](#free-beginner-blue-team-path) - (Add your badge here. Badge code is hidden in this repo)
+* [Bonus CTF practice and Latest CVEs](#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
+* [Bonus Windows](#bonus-windows) - (Completed/In Progress)
+* [Extremely Hard Rooms to do](#extremely-hard-rooms-to-do) - (Completed/In Progress)
+
+<!-- | Paths                              | Completion |
+| -------------------------------- | ---------------------|
+|[Introduction and Pre-Security](#-introduction-and-pre-security) |(Completed/In Progress) |
+|[Free Beginner Red Team Path](#-free-beginner-red-team-path)   |(Add your badge here. Badge code is hidden in this repo) |
+|[Free Beginner Blue Team Path](#-free-beginner-blue-team-path)  |(Add your badge here. Badge code is hidden in this repo) |
+|[Bonus CTF practice & Latest CVEs](#-bonus-ctf-practice-and-latest-cves)|(Completed/In Progress)|
+|[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
+|[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) | -->
+
+## About
 
 Cyber Security University is A curated list of awesome and free educational resources that focuses on learn by doing.
 
@@ -30,29 +49,16 @@ It will look like this.
 
 As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
 
-<!--lint disable awesome-toc-->
-## Contents
-
-| Paths                              | Completion |
-| -------------------------------- | ---------------------|
-|[Introduction and Pre-Security](#-introduction-and-pre-security) |(Completed/In Progress) |
-|[Free Beginner Red Team Path](#-free-beginner-red-team-path)   |(Add your badge here. Badge code is hidden in this repo) |
-|[Free Beginner Blue Team Path](#-free-beginner-blue-team-path)  |(Add your badge here. Badge code is hidden in this repo) |
-|[Bonus CTF practice & Latest CVEs](#-bonus-ctf-practice-and-latest-cves)|(Completed/In Progress)|
-|[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
-|[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) |
-|[Credits and Contributors](#-credits-and-contributors)|Here are awesome folks who contributed to this list! 🕵️|
-<!--lint enable awesome-toc-->
-
 <!--lint disable double-link-->
-## [↑](#contents) Contributing
+[↑](#contents)
+<!--lint enable double-link-->
+## Contributing
 
 Pull requests are welcome with the condition that the resource should be free! Please read [Contribution guide in wiki](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
-## [↑](#contents) Introduction and Pre-Security
+## Introduction and Pre-Security
 
-### [↑](#contents) Level 1 - Intro
-<!--lint enable double-link-->
+### Level 1 - Intro
 
 <!--lint disable double-link-->
 * [ ] [OpenVPN](<https://tryhackme.com/room/openvpn>)
@@ -77,10 +83,11 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Shodan.io](<https://tryhackme.com/room/shodan>)
 
 <!--lint disable double-link-->
-## [↑](#contents) Free-Beginner-Red-Team-Path
-
-### [↑](#contents) Level 2 - Tooling
+[↑](#contents)
 <!--lint enable double-link-->
+## Free Beginner Red Team Path
+
+### Level 2 - Tooling
 
 * [ ] [Tmux](<https://tryhackme.com/room/rptmux>)
 * [ ] [Nmap](<https://tryhackme.com/room/rpnmap>)
@@ -102,8 +109,9 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Bounty Hacker](<https://tryhackme.com/room/cowboyhacker>)
 
 <!--lint disable double-link-->
-### [↑](#contents) Level 3 - Crypto & Hashes with CTF practice
+[↑](#contents)
 <!--lint enable double-link-->
+### Level 3 - Crypto & Hashes with CTF practice
 
 * [ ] [Crack the hash](<https://tryhackme.com/room/crackthehash>)
 * [ ] [Agent Sudo](<https://tryhackme.com/room/agentsudoctf>)
@@ -113,8 +121,9 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Basic Pentesting](<https://tryhackme.com/room/basicpentestingjt>)
 
 <!--lint disable double-link-->
-### [↑](#contents) Level 4 - Web
+[↑](#contents)
 <!--lint enable double-link-->
+### Level 4 - Web
 
 * [ ] [OWASP top 10](<https://tryhackme.com/room/owasptop10>)
 * [ ] [Inclusion](<https://tryhackme.com/room/inclusion>)
@@ -127,8 +136,9 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Bolt](<https://tryhackme.com/room/bolt>)
 
 <!--lint disable double-link-->
-### [↑](#contents) Level 5 - Reverse Engineering & Pwn
+[↑](#contents)
 <!--lint enable double-link-->
+### Level 5 - Reverse Engineering & Pwn
 
 * [ ] [Intro to x86 64](<https://tryhackme.com/room/introtox8664>)
 * [ ] [CC Ghidra](<https://tryhackme.com/room/ccghidra>)
@@ -141,8 +151,10 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Pwnkit: CVE-2021-4034](<https://tryhackme.com/room/pwnkit>)
 
 <!--lint disable double-link-->
-### [↑](#contents) Level 6 - PrivEsc
+[↑](#contents)
 <!--lint enable double-link-->
+
+### Level 6 - PrivEsc
 
 * [ ] [Sudo Security Bypass](<https://tryhackme.com/room/sudovulnsbypass>)
 * [ ] [Sudo Buffer Overflow](<https://tryhackme.com/room/sudovulnsbof>)
@@ -172,10 +184,11 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 
 </details>
 
-## [↑](#contents) Free-Beginner-Blue-Team-Path
-
-### [↑](#contents) Level 1 - Tools
+[↑](#contents)
 <!--lint enable double-link-->
+## Free Beginner Blue Team Path
+
+### Level 1 - Tools
 
 * [ ] [Windows Fundamentals](<https://tryhackme.com/room/windowsfundamentals1xbx>)
 * [ ] [Nessus](<https://tryhackme.com/room/rpnessusredux>)
@@ -188,8 +201,9 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 * [ ] [Autopsy](<https://tryhackme.com/room/autopsy2ze0>)
 
 <!--lint disable double-link-->
-### [↑](#contents) Level 2 - Security Operations & Incident Response
+[↑](#contents)
 <!--lint enable double-link-->
+### Level 2 - Security Operations & Incident Response
 
 * [ ] [Investigating Windows](<https://tryhackme.com/room/investigatingwindows>)
 * [ ] [Juicy Details](<https://tryhackme.com/room/juicydetails>)
@@ -200,8 +214,10 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 * [ ] [Splunk Boss of the SOC V3](<https://cyberdefenders.org/blueteam-ctf-challenges/8>)
 
 <!--lint disable double-link-->
-### [↑](#contents) Level 3 - Beginner Forensics & Cryptography
+[↑](#contents)
 <!--lint enable double-link-->
+
+### Level 3 - Beginner Forensics & Cryptography
 
 * [ ] [Martryohka doll](<https://play.picoctf.org/practice/challenge/129?category=4&page=1&solved=0>)
 * [ ] [Glory of the Garden](<https://play.picoctf.org/practice/challenge/44?category=4&page=1&solved=0>)
@@ -217,8 +233,9 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 * [ ] [Introduction to Cryptohack](<https://cryptohack.org/courses/intro/course_details/>)
 
 <!--lint disable double-link-->
-### [↑](#contents) Level 4 - Memory & Disk Forensics
+[↑](#contents)
 <!--lint enable double-link-->
+### Level 4 - Memory & Disk Forensics
 
 * [ ] [Sleuthkit Intro](<https://play.picoctf.org/practice/challenge/301?category=4&page=2&solved=0>)
 * [ ] [Reminiscent](<https://app.hackthebox.com/challenges/reminiscent>)
@@ -229,8 +246,9 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 * [ ] [Detect Log4J](<https://cyberdefenders.org/blueteam-ctf-challenges/86>)
 
 <!--lint disable double-link-->
-### [↑](#contents) Level 5 - Malware and Reverse Engineering
+[↑](#contents)
 <!--lint enable double-link-->
+### Level 5 - Malware and Reverse Engineering
 
 * [ ] [History of Malware](<https://tryhackme.com/room/historyofmalware>)
 * [ ] [Malware Introduction](<https://tryhackme.com/room/malmalintroductory>)
@@ -257,8 +275,10 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#contents) o
 
 </details>
 
-## [↑](#contents) Bonus CTF practice and Latest CVEs
+[↑](#contents)
 <!--lint enable double-link-->
+
+## Bonus CTF practice and Latest CVEs
 
 * [ ] [Post Exploitation Basics](<https://tryhackme.com/room/postexploit>)
 * [ ] [Smag Grotto](<https://tryhackme.com/room/smaggrotto>)
@@ -274,8 +294,9 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#contents) o
 * [ ] [Most Recent threats](<https://tryhackme.com/module/recent-threats>)
 
 <!--lint disable double-link-->
-## [↑](#contents) Bonus Windows
+[↑](#contents)
 <!--lint enable double-link-->
+## Bonus Windows
 
 * [ ] [Attacktive Directory](<https://tryhackme.com/room/attacktivedirectory>)
 * [ ] [Retro](<https://tryhackme.com/room/retro>)
@@ -284,8 +305,9 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#contents) o
 * [ ] [Relevant](<https://tryhackme.com/room/relevant>)
 
 <!--lint disable double-link-->
-## [↑](#contents) Extremely-Hard-Rooms-to-do
+[↑](#contents)
 <!--lint enable double-link-->
+## Extremely Hard Rooms to do
 
 * [ ] [Ra](<https://tryhackme.com/room/ra>)
 * [ ] [Ra2](<https://tryhackme.com/room/ra2>)
@@ -304,8 +326,9 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#contents) o
 * [ ] [Python Playground](<https://tryhackme.com/room/pythonplayground>)
 
 <!--lint disable double-link-->
-## [↑](#contents) Credits and Contributors
+[↑](#contents)
 <!--lint enable double-link-->
+## Footnotes
 
 **Inspired by** <https://skerritt.blog/free-rooms/>
 
@@ -332,3 +355,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+<!--lint disable double-link-->
+[↑](#contents)
+<!--lint enable double-link-->
