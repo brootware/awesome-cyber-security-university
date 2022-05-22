@@ -12,7 +12,7 @@
 
 ## Contents
 
-* [What's this about](#whats-this-about-🤔)
+* [What's this about 🤔](#whats-this-about-🤔)
 * [Introduction and Pre-Security](#-introduction-and-pre-security)
 * [Free Beginner Red Team Path](#-free-beginner-red-team-path)
 * [Free Beginner Blue Team Path](#-free-beginner-blue-team-path)
