@@ -1,6 +1,6 @@
 # Archived
 
-The following markdown is the place for archived, old, deleted or unmaintained projects that used to be listed on the main README.md.
+The following markdown is the place for archived, old, deleted, costs money or unmaintained projects that used to be listed on the main README.md.
 
 ---
 
