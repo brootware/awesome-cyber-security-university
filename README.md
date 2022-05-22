@@ -85,7 +85,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 <!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
-## Free-Beginner-Red-Team-Path
+## Free Beginner Red Team Path
 
 ### Level 2 - Tooling
 
@@ -186,7 +186,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 
 [↑](#contents)
 <!--lint enable double-link-->
-## Free-Beginner-Blue-Team-Path
+## Free Beginner Blue Team Path
 
 ### Level 1 - Tools
 
@@ -306,7 +306,7 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#contents) o
 <!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
-## Extremely-Hard-Rooms-to-do
+## Extremely Hard Rooms to do
 
 * [ ] [Ra](<https://tryhackme.com/room/ra>)
 * [ ] [Ra2](<https://tryhackme.com/room/ra2>)
