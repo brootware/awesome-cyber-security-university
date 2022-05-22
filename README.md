@@ -12,14 +12,20 @@
 
 ## Contents
 
-| Paths                              | Completion |
+[Introduction and Pre-Security](#-introduction-and-pre-security)
+[Free Beginner Red Team Path](#-free-beginner-red-team-path)
+[Free Beginner Blue Team Path](#-free-beginner-blue-team-path)
+[Bonus CTF practice & Latest CVEs](#-bonus-ctf-practice-and-latest-cves)
+[Bonus Windows](#-bonus-windows)|(Completed/In Progress)
+[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress)
+<!-- | Paths                              | Completion |
 | -------------------------------- | ---------------------|
 |[Introduction and Pre-Security](#-introduction-and-pre-security) |(Completed/In Progress) |
 |[Free Beginner Red Team Path](#-free-beginner-red-team-path)   |(Add your badge here. Badge code is hidden in this repo) |
 |[Free Beginner Blue Team Path](#-free-beginner-blue-team-path)  |(Add your badge here. Badge code is hidden in this repo) |
 |[Bonus CTF practice & Latest CVEs](#-bonus-ctf-practice-and-latest-cves)|(Completed/In Progress)|
 |[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
-|[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) |
+|[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) | -->
 
 ## What's this about 🤔
 
