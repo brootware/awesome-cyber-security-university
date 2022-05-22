@@ -1,4 +1,4 @@
-name: "cd"
+name: "Continuous Deployment"
 on:
   push:
     branches:
