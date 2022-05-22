@@ -19,6 +19,7 @@
 * [Bonus CTF practice and Latest CVEs](#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
 * [Bonus Windows](#bonus-windows) - (Completed/In Progress)
 * [Extremely Hard Rooms to do](#extremely-hard-rooms-to-do) - (Completed/In Progress)
+* [Extremely Hard Rooms to do](#extremely-hard-rooms-to-do)
 
 <!-- | Paths                              | Completion |
 | -------------------------------- | ---------------------|
@@ -274,6 +275,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 Copy above and add it to the [Free Beginner Blue Team Path section](#contents) of the content page.
 
 </details>
+
 [↑](#contents)
 <!--lint enable double-link-->
 
@@ -327,7 +329,7 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#contents) o
 <!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
-## Credits and Contributors
+## Footnotes
 
 **Inspired by** <https://skerritt.blog/free-rooms/>
 
