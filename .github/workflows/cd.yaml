@@ -1,4 +1,4 @@
-name: Website Deployment
+name: "cd"
 on:
   push:
     branches:
@@ -32,5 +32,5 @@ jobs:
           destination_repo: "brootware/cyber-security-university"
           destination_branch: "gh-pages"
           user_email: "brootware@outlook.com"
-          user_name: "AwesomeAlgoBot"
+          user_name: "AwesomeCyberBot"
           commit_message: "🤖 Updating website with latest content 📜"
