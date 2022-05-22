@@ -12,7 +12,7 @@
 
 ## Contents
 
-* [About](#-about)
+* [About](#about)
 * [Introduction and Pre-Security](#-introduction-and-pre-security) - (Completed/In Progress)
 * [Free Beginner Red Team Path](#-free-beginner-red-team-path) - (Add your badge here. Badge code is hidden in this repo)
 * [Free Beginner Blue Team Path](#-free-beginner-blue-team-path) - (Add your badge here. Badge code is hidden in this repo)
