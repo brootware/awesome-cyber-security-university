@@ -332,7 +332,7 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#contents) o
 
 **Inspired by** <https://skerritt.blog/free-rooms/>
 
-### Contributors ✨
+### Contributors & stargazers ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
