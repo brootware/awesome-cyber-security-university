@@ -16,8 +16,9 @@
 [Free Beginner Red Team Path](#-free-beginner-red-team-path)
 [Free Beginner Blue Team Path](#-free-beginner-blue-team-path)
 [Bonus CTF practice & Latest CVEs](#-bonus-ctf-practice-and-latest-cves)
-[Bonus Windows](#-bonus-windows)|(Completed/In Progress)
-[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress)
+[Bonus Windows](#-bonus-windows)
+[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)
+
 <!-- | Paths                              | Completion |
 | -------------------------------- | ---------------------|
 |[Introduction and Pre-Security](#-introduction-and-pre-security) |(Completed/In Progress) |
