@@ -197,7 +197,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 * [ ] [Intro to Honeypots](<https://tryhackme.com/room/introductiontohoneypots>) -  Intro to honeypots.
 * [ ] [Volatility](<https://tryhackme.com/room/bpvolatility>) - Intro to memory analysis with volatility.
 * [ ] [Red Line](<https://tryhackme.com/room/btredlinejoxr3d>) - Learn how to use Redline to perform memory analysis and to scan for IOCs on an endpoint.
-* [ ] [Autopsy](<https://tryhackme.com/room/autopsy2ze0>) -
+* [ ] [Autopsy](<https://tryhackme.com/room/autopsy2ze0>) - Use Autopsy to investigate artifacts from a disk image.
 
 <!--lint disable double-link-->
 [↑](#contents)
