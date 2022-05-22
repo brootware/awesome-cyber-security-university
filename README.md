@@ -37,9 +37,8 @@ Cyber Security University is A curated list of awesome and free educational reso
 
 There are 6 parts to this. Introduction and Pre-security, Free Beginner Red Team Path, Free Beginner Blue Team Path, Bonus practices/latest CVEs and Extremely Hard rooms to do. The tasks are linear in nature of difficulty. So it's recommended to do in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
 
-To get started, Click on [`Use this template`](https://github.com/brootware/Cyber-Security-University/generate) button of this repository. Mark the tasks you have completed as below
+To get started, Click on [`Use this template`](https://github.com/brootware/Cyber-Security-University/generate) button of this repository.
 
-<!--lint disable no-undefined-references-->
 <!--lint disable double-link-->
 As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
 
