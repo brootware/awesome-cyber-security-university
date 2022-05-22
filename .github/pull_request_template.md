@@ -7,6 +7,7 @@ _Please include a summary of the resource you're suggesting below:_
 _Please make sure you reviewed the checklist and comply with each requirement:_
 
 * [ ] My code follows the [contribution guidelines](../contributing.md) of this project
+* [ ] This resource is free and focuses on learn by doing style of learning
 * [ ] This pull request has a title in the format `Add Name of Resource`:
   * ✅ Add `ctf-practice`
   * ❌ Update readme.md
