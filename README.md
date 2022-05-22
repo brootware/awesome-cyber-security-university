@@ -131,7 +131,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Juiceshop](<https://tryhackme.com/room/owaspjuiceshop>) - This room uses the Juice Shop vulnerable web application to learn how to identify and exploit common web application vulnerabilities.
 * [ ] [Overpass](<https://tryhackme.com/room/overpass>) - What happens when some broke CompSci students make a password manager.
 * [ ] [Year of the Rabbit](<https://tryhackme.com/room/yearoftherabbit>) - Can you hack into the Year of the Rabbit box without falling down a hole.
-* [ ] [DevelPy](<https://tryhackme.com/room/bsidesgtdevelpy>) - boot2root machine for FIT and bsides Guatemala CTF.
+* [ ] [DevelPy](<https://tryhackme.com/room/bsidesgtdevelpy>) - Boot2root machine for FIT and bsides Guatemala CTF.
 * [ ] [Jack of all trades](<https://tryhackme.com/room/jackofalltrades>) - Boot-to-root originally designed for Securi-Tay 2020.
 * [ ] [Bolt](<https://tryhackme.com/room/bolt>) - Bolt themed machine to root into.
 
