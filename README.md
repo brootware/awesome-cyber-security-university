@@ -10,6 +10,17 @@
 <a href="https://ipfs.io/ipfs/QmS6dTFMddKkNnPmixhXRLLCfhURYnnnWJupz5tRPbJg81" style="pointer-events: none;  cursor: default;"><img src="https://img.shields.io/badge/Web 3.0-Website-blue.svg"/></a> -->
 </div>
 
+## Contents
+
+| Paths                              | Completion |
+| -------------------------------- | ---------------------|
+|[Introduction and Pre-Security](#-introduction-and-pre-security) |(Completed/In Progress) |
+|[Free Beginner Red Team Path](#-free-beginner-red-team-path)   |(Add your badge here. Badge code is hidden in this repo) |
+|[Free Beginner Blue Team Path](#-free-beginner-blue-team-path)  |(Add your badge here. Badge code is hidden in this repo) |
+|[Bonus CTF practice & Latest CVEs](#-bonus-ctf-practice-and-latest-cves)|(Completed/In Progress)|
+|[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
+|[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) |
+
 ## What's this about 🤔
 
 Cyber Security University is A curated list of awesome and free educational resources that focuses on learn by doing.
@@ -29,17 +40,6 @@ It will look like this.
 * [x] [OpenVPN](<https://tryhackme.com/room/openvpn>)
 
 As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the html code for them and add it into the content page below once you have completed them.
-
-## Contents
-
-| Paths                              | Completion |
-| -------------------------------- | ---------------------|
-|[Introduction and Pre-Security](#-introduction-and-pre-security) |(Completed/In Progress) |
-|[Free Beginner Red Team Path](#-free-beginner-red-team-path)   |(Add your badge here. Badge code is hidden in this repo) |
-|[Free Beginner Blue Team Path](#-free-beginner-blue-team-path)  |(Add your badge here. Badge code is hidden in this repo) |
-|[Bonus CTF practice & Latest CVEs](#-bonus-ctf-practice-and-latest-cves)|(Completed/In Progress)|
-|[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
-|[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) |
 
 <!--lint disable double-link-->
 ## [↑](#contents) Contributing
