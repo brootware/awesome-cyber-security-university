@@ -143,7 +143,6 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] [Intro to x86 64](<https://tryhackme.com/room/introtox8664>) - This room teaches the basics of x86-64 assembly language.
 * [ ] [CC Ghidra](<https://tryhackme.com/room/ccghidra>) - This room teaches basics of ghidar.
 * [ ] [CC Radare2](<https://tryhackme.com/room/ccradare2>) - This room teaches basics of radare2.
-* [ ] [CC Steganography](<https://tryhackme.com/room/ccstego>)
 * [ ] [Reverse Engineering](<https://tryhackme.com/room/reverseengineering>) - This room focuses on teaching the basics of assembly through reverse engineering.
 * [ ] [Reversing ELF](<https://tryhackme.com/room/reverselfiles>) - Room for beginner Reverse Engineering CTF players.
 * [ ] [Dumping Router Firmware](<https://tryhackme.com/room/rfirmware>) - Reverse engineering router firmware.
@@ -198,7 +197,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 * [ ] [Intro to Honeypots](<https://tryhackme.com/room/introductiontohoneypots>) -  Intro to honeypots.
 * [ ] [Volatility](<https://tryhackme.com/room/bpvolatility>) - Intro to memory analysis with volatility.
 * [ ] [Red Line](<https://tryhackme.com/room/btredlinejoxr3d>) - Learn how to use Redline to perform memory analysis and to scan for IOCs on an endpoint.
-* [ ] [Autopsy](<https://tryhackme.com/room/autopsy2ze0>) -
+* [ ] [Autopsy](<https://tryhackme.com/room/autopsy2ze0>) - Use Autopsy to investigate artifacts from a disk image.
 
 <!--lint disable double-link-->
 [↑](#contents)
@@ -280,50 +279,47 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#contents) o
 
 ## Bonus CTF practice and Latest CVEs
 
-* [ ] [Post Exploitation Basics](<https://tryhackme.com/room/postexploit>)
-* [ ] [Smag Grotto](<https://tryhackme.com/room/smaggrotto>)
-* [ ] [Dogcat](<https://tryhackme.com/room/dogcat>)
-* [ ] [LFI basics](<https://tryhackme.com/room/lfibasics>)
-* [ ] [Buffer Overflow Prep](<https://tryhackme.com/room/bufferoverflowprep>)
-* [ ] [Break out the cage](<https://tryhackme.com/room/breakoutthecage1>)
-* [ ] [Lian Yu](<https://tryhackme.com/room/lianyu>)
-* [ ] [Insecure Kubernetes](<https://tryhackme.com/room/insekube>)
-* [ ] [The Great Escape (docker)](<https://tryhackme.com/room/thegreatescape>)
-* [ ] [Solr Exploiting Log4j](<https://tryhackme.com/room/solar>)
-* [ ] [Spring4Shell](<https://tryhackme.com/room/spring4shell>)
-* [ ] [Most Recent threats](<https://tryhackme.com/module/recent-threats>)
+* [ ] [Post Exploitation Basics](<https://tryhackme.com/room/postexploit>) - Learn the basics of post-exploitation and maintaining access with mimikatz, bloodhound, powerview and msfvenom.
+* [ ] [Smag Grotto](<https://tryhackme.com/room/smaggrotto>) - An obsecure boot2root machine.
+* [ ] [Dogcat](<https://tryhackme.com/room/dogcat>) - I made a website where you can look at pictures of dogs and/or cats! Exploit a PHP application via LFI and break out of a docker container.
+* [ ] [Buffer Overflow Prep](<https://tryhackme.com/room/bufferoverflowprep>) - Practice stack based buffer overflows.
+* [ ] [Break out the cage](<https://tryhackme.com/room/breakoutthecage1>) - Help Cage bring back his acting career and investigate the nefarious goings on of his agent.
+* [ ] [Lian Yu](<https://tryhackme.com/room/lianyu>) - A beginner level security challenge.
+* [ ] [Insecure Kubernetes](<https://tryhackme.com/room/insekube>) - Exploiting Kubernetes by leveraging a Grafana LFI vulnerability.
+* [ ] [The Great Escape (docker)](<https://tryhackme.com/room/thegreatescape>) - Escaping docker container.
+* [ ] [Solr Exploiting Log4j](<https://tryhackme.com/room/solar>) - Explore CVE-2021-44228, a vulnerability in log4j affecting almost all software under the sun.
+* [ ] [Spring4Shell](<https://tryhackme.com/room/spring4shell>) - Interactive lab for exploiting Spring4Shell (CVE-2022-22965) in the Java Spring Framework.
+* [ ] [Most Recent threats](<https://tryhackme.com/module/recent-threats>) - Learn about the latest industry threats. Get hands-on experience identifying, exploiting, and mitigating critical vulnerabilities.
 
 <!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
 ## Bonus Windows
 
-* [ ] [Attacktive Directory](<https://tryhackme.com/room/attacktivedirectory>)
-* [ ] [Retro](<https://tryhackme.com/room/retro>)
-* [ ] [Blue Print](<https://tryhackme.com/room/blueprint>)
-* [ ] [Anthem](<https://tryhackme.com/room/anthem>)
-* [ ] [Relevant](<https://tryhackme.com/room/relevant>)
+* [ ] [Attacktive Directory](<https://tryhackme.com/room/attacktivedirectory>) - Learn about 99% of Corporate networks that run off of AD.
+* [ ] [Retro](<https://tryhackme.com/room/retro>) - Breaking out of retro themed box.
+* [ ] [Blue Print](<https://tryhackme.com/room/blueprint>) - Hack into this Windows machine and escalate your privileges to Administrator.
+* [ ] [Anthem](<https://tryhackme.com/room/anthem>) - Exploit a Windows machine in this beginner level challenge.
+* [ ] [Relevant](<https://tryhackme.com/room/relevant>) - Penetration Testing Challenge.
 
 <!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
 ## Extremely Hard Rooms to do
 
-* [ ] [Ra](<https://tryhackme.com/room/ra>)
-* [ ] [Ra2](<https://tryhackme.com/room/ra2>)
-* [ ] [Osiris](<https://tryhackme.com/room/osiris>)
-* [ ] [CCT2019](<https://tryhackme.com/room/cct2019>)
-* [ ] [Set](<https://tryhackme.com/room/set>)
-* [ ] [Theseus](<https://tryhackme.com/room/theseus>)
-* [ ] [IronCorp](<https://tryhackme.com/room/ironcorp>)
-* [ ] [Carpe Diem 1](<https://tryhackme.com/room/carpediem1>)
-* [ ] [Borderlands](<https://tryhackme.com/room/borderlands>)
-* [ ] [Jeff](<https://tryhackme.com/room/jeff>)
-* [ ] [Year of the Owl](<https://tryhackme.com/room/yearoftheowl>)
-* [ ] [Anonymous Playground](<https://tryhackme.com/room/anonymousplayground>)
-* [ ] [EnterPrize](<https://tryhackme.com/room/enterprize>)
-* [ ] [Racetrack Bank](<https://tryhackme.com/room/racetrackbank>)
-* [ ] [Python Playground](<https://tryhackme.com/room/pythonplayground>)
+* [ ] [Ra](<https://tryhackme.com/room/ra>) - You have found WindCorp's internal network and their Domain Controller. Pwn the network.
+* [ ] [CCT2019](<https://tryhackme.com/room/cct2019>) - Legacy challenges from the US Navy Cyber Competition Team 2019 Assessment sponsored by US TENTH Fleet.
+
+* [ ] [Theseus](<https://tryhackme.com/room/theseus>) - The first installment of the SuitGuy series of very hard challenges.
+* [ ] [IronCorp](<https://tryhackme.com/room/ironcorp>) - Get access to Iron Corp's system.
+* [ ] [Carpe Diem 1](<https://tryhackme.com/room/carpediem1>) - Recover your clients encrypted files before the ransomware timer runs out.
+* [ ] [Borderlands](<https://tryhackme.com/room/borderlands>) - Compromise a perimeter host and pivot through this network.
+* [ ] [Jeff](<https://tryhackme.com/room/jeff>) - Hack into Jeff's web server.
+* [ ] [Year of the Owl](<https://tryhackme.com/room/yearoftheowl>) - Owl themed boot2root machine.
+* [ ] [Anonymous Playground](<https://tryhackme.com/room/anonymousplayground>) - Want to become part of Anonymous? They have a challenge for you.
+* [ ] [EnterPrize](<https://tryhackme.com/room/enterprize>) - Enterprise themed network to pwn.
+* [ ] [Racetrack Bank](<https://tryhackme.com/room/racetrackbank>) - It's time for another heist.
+* [ ] [Python Playground](<https://tryhackme.com/room/pythonplayground>) - Use python to pwn this room.
 
 <!--lint disable double-link-->
 [↑](#contents)
