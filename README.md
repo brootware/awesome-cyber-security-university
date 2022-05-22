@@ -55,7 +55,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 ### Level 1 - Intro
 
 <!--lint disable double-link-->
-* [OpenVPN](<https://tryhackme.com/room/openvpn>) - Learn how to connect to a virtual private network using openvpn
+* [OpenVPN](<https://tryhackme.com/room/openvpn>) - Learn how to connect to a virtual private network using openvpn.
 <!--lint enable double-link-->
 * [Welcome](<https://tryhackme.com/jr/welcome>) - Learn how to use a TryHackMe room to start your upskilling in cyber security.
 * [Intro to Researching](<https://tryhackme.com/room/introtoresearch>) - A brief introduction to research skills for pentesting.
@@ -73,8 +73,8 @@ Pull requests are welcome with the condition that the resource should be free! P
 <!-- markdownlint-enable MD036 -->
 
 * [Google Dorking](<https://tryhackme.com/room/googledorking>) - Explaining how Search Engines work and leveraging them into finding hidden content!
-* [OHsint](<https://tryhackme.com/room/ohsint>) - Intro to Open Source Intelligence
-* [Shodan.io](<https://tryhackme.com/room/shodan>) - Learn about Shodan.io and how to use it for devices enumeration - is your coffee machine publicly accessible?
+* [OHsint](<https://tryhackme.com/room/ohsint>) - Intro to Open Source Intelligence.
+* [Shodan.io](<https://tryhackme.com/room/shodan>) - Learn about Shodan.io and how to use it for devices enumeration.
 
 <!--lint disable double-link-->
 [↑](#contents)
@@ -199,7 +199,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 ### Level 2 - Security Operations & Incident Response
 
 * [Investigating Windows](<https://tryhackme.com/room/investigatingwindows>) - Investigating windows.
-* [Juicy Details](<https://tryhackme.com/room/juicydetails>) -A popular juice shop has been breached! Analyze the logs to see what had happened.
+* [Juicy Details](<https://tryhackme.com/room/juicydetails>) - A popular juice shop has been breached! Analyze the logs to see what had happened.
 * [Carnage](<https://tryhackme.com/room/c2carnage>) - Apply your analytical skills to analyze the malicious network traffic using Wireshark.
 * [Squid Game](<https://tryhackme.com/room/squidgameroom>) - Squid game themed CTF.
 * [Splunk Boss of the SOC V1](<https://tryhackme.com/room/bpsplunk>) - Part of the Blue Primer series, learn how to use Splunk to search through massive amounts of information.
@@ -222,7 +222,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 * [Illumination](<https://app.hackthebox.com/challenges/illumination>) - Medium level forensics challenge.
 * [Emo](<https://app.hackthebox.com/challenges/emo>) - Medium level forensics challenge.
 * [Obsecure](<https://app.hackthebox.com/challenges/obscure>) - Medium level forensics challenge.
-* [Bucket - Cloud Security Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/84>) - Medium level cloud security challenge
+* [Bucket - Cloud Security Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/84>) - Medium level cloud security challenge.
 * [Introduction to Cryptohack](<https://cryptohack.org/courses/intro/course_details/>) - Medium level cryptography challenge.
 
 <!--lint disable double-link-->
@@ -236,7 +236,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 * [Spotlight - Mac Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/34>) - Medium level disk forensics challenge.
 * [Ulysses -  Linux Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/41>) - Medium level disk forensics challenge.
 * [Banking Troubles - Windows Memory Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/43>) - Medium level memory forensics challenge.
-* [Detect Log4J](<https://cyberdefenders.org/blueteam-ctf-challenges/86>)  - Medium level disk forensics challenge.
+* [Detect Log4J](<https://cyberdefenders.org/blueteam-ctf-challenges/86>) - Medium level disk forensics challenge.
 
 <!--lint disable double-link-->
 [↑](#contents)
@@ -246,9 +246,9 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 * [History of Malware](<https://tryhackme.com/room/historyofmalware>) - Intro to malware history.
 * [Malware Introduction](<https://tryhackme.com/room/malmalintroductory>) - Intro to malware.
 * [Basic Malware Reverse Engineering](<https://tryhackme.com/room/basicmalwarere>) - Intro to malware RE.
-* [Intro Windows Reversing](<https://tryhackme.com/room/windowsreversingintro>) - Intro to windows RE.
+* [Intro Windows Reversing](<https://tryhackme.com/room/windowsreversingintro>) - Intro to Windows RE.
 * [Windows x64 Assembly](<https://tryhackme.com/room/win64assembly>) - Introduction to x64 Assembly on Windows.
-* [JVM reverse engineering](<https://tryhackme.com/room/jvmreverseengineering>) - Learn Reverse Engineering for Java Virtual Machine bytecode
+* [JVM reverse engineering](<https://tryhackme.com/room/jvmreverseengineering>) - Learn Reverse Engineering for Java Virtual Machine bytecode.
 * [Get PDF (Malicious Document)](<https://cyberdefenders.org/blueteam-ctf-challenges/47>) - Reversing PDF Malware.
 
 > Congratulations! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
