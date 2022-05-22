@@ -41,7 +41,6 @@ As you go through the curriculum, you will find completion badges that are hidde
 |[Bonus CTF practice & Latest CVEs](#-bonus-ctf-practice-and-latest-cves)|(Completed/In Progress)|
 |[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
 |[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) |
-|[Credits and Contributors](#-credits-and-contributors)|Here are awesome folks who contributed to this list! 🕵️|
 <!--lint enable awesome-toc-->
 
 <!--lint disable double-link-->
