@@ -1,0 +1,36 @@
+name: Website Deployment
+on:
+  push:
+    branches:
+      - main
+jobs:
+  Website_Deployment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.9.1
+        with:
+          access_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Run linters
+        run: npx awesome-lint
+
+      - name: Copy latest README
+        run: |
+          cp README.md index.md
+
+      - name: Push latest index.md
+        uses: dmnemec/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          source_file: "index.md"
+          destination_repo: "brootware/cyber-security-university"
+          destination_branch: "gh-pages"
+          user_email: "brootware@outlook.com"
+          user_name: "AwesomeAlgoBot"
+          commit_message: "🤖 Updating website with latest content 📜"
