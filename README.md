@@ -180,6 +180,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 
 ### Level 1 - Tools
 
+* [Introduction to digital forensics](https://tryhackme.com/room/introdigitalforensics) - Intro to Digital Forensics.
 * [Windows Fundamentals](<https://tryhackme.com/room/windowsfundamentals1xbx>) -  Intro to windows.
 * [Nessus](<https://tryhackme.com/room/rpnessusredux>) - Intro to nessus scan.
 * [Mitre](<https://tryhackme.com/room/mitre>) -  Intro to Mitre attack framework.
