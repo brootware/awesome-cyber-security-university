@@ -9,8 +9,6 @@
 <br/>
 
 <a><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
-<!-- <a href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Web 2.0-Website-yellow.svg" /></a>
-<a href="https://ipfs.io/ipfs/QmS6dTFMddKkNnPmixhXRLLCfhURYnnnWJupz5tRPbJg81" style="pointer-events: none;  cursor: default;"><img src="https://img.shields.io/badge/Web 3.0-Website-blue.svg"/></a> -->
 </div>
 
 ## Contents
@@ -180,6 +178,7 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 
 ### Level 1 - Tools
 
+* [Introduction to digital forensics](https://tryhackme.com/room/introdigitalforensics) - Intro to Digital Forensics.
 * [Windows Fundamentals](<https://tryhackme.com/room/windowsfundamentals1xbx>) -  Intro to windows.
 * [Nessus](<https://tryhackme.com/room/rpnessusredux>) - Intro to nessus scan.
 * [Mitre](<https://tryhackme.com/room/mitre>) -  Intro to Mitre attack framework.
