@@ -4,9 +4,10 @@
 
 <div align="center">
 <img src="assets/purpleteam.png" />
-<br />
+<br/>
 <i>Because Education should be free.</i>
-</br>
+<br/>
+
 <a><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
 <!-- <a href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Web 2.0-Website-yellow.svg" /></a>
 <a href="https://ipfs.io/ipfs/QmS6dTFMddKkNnPmixhXRLLCfhURYnnnWJupz5tRPbJg81" style="pointer-events: none;  cursor: default;"><img src="https://img.shields.io/badge/Web 3.0-Website-blue.svg"/></a> -->
