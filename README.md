@@ -269,6 +269,8 @@ Copy above and add it to the [Free Beginner Blue Team Path section](#contents) o
 
 ## Bonus CTF practice and Latest CVEs
 
+* [Bandit](<https://overthewire.org/wargames/bandit/>) - Aimed at absolute beginners and teaches the basics of remote server access.
+* [Natas](<https://overthewire.org/wargames/natas/>) - Teaches the basics of serverside web-security.
 * [Post Exploitation Basics](<https://tryhackme.com/room/postexploit>) - Learn the basics of post-exploitation and maintaining access with mimikatz, bloodhound, powerview and msfvenom.
 * [Smag Grotto](<https://tryhackme.com/room/smaggrotto>) - An obsecure boot2root machine.
 * [Dogcat](<https://tryhackme.com/room/dogcat>) - I made a website where you can look at pictures of dogs and/or cats! Exploit a PHP application via LFI and break out of a docker container.
