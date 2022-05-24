@@ -8,7 +8,7 @@
 <i>Because Education should be free.</i>
 <br/>
 
-<a href="https://twitter.com/brootware/"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://brootware.github.io/cyber-security-university/"><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
 </div>
 
 ## Contents
