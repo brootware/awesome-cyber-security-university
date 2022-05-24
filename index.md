@@ -1,14 +1,14 @@
-# Cyber-Security-University 🔐 🕵️ 🎓 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Cyber Security University [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome and free educational resources that focuses on learn by doing.
 
 <div align="center">
-<img src="assets/purpleteam.png" />
+<a href="https://brootware.github.io/cyber-security-university/"><img src="assets/purpleteam.png" /></a>
 <br/>
 <i>Because Education should be free.</i>
 <br/>
 
-<a><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
+<a href="https://twitter.com/brootware/"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
 ## Contents
