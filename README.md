@@ -1,4 +1,4 @@
-# Cyber Security University [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Cyber Security University [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome and free educational resources that focuses on learn by doing.
 
