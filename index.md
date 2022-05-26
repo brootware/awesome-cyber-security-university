@@ -160,15 +160,11 @@ Pull requests are welcome with the condition that the resource should be free! P
 <details>
   <summary>Click here to get your red team badge!</summary>
 
-Decode this below to get your badge 😈
-
-```MDAwMDAwMDAgIDNjIDYxIDIwIDY4IDcyIDY1IDY2IDNkIDIyIDY4IDc0IDc0IDcwIDczIDNhIDJmICB8PGEgaHJlZj0iaHR0cHM6L3wKMDAwMDAwMTAgIDJmIDY3IDY5IDc0IDY4IDc1IDYyIDJlIDYzIDZmIDZkIDJmIDYyIDcyIDZmIDZmICB8L2dpdGh1Yi5jb20vYnJvb3wKMDAwMDAwMjAgIDc0IDc3IDYxIDcyIDY1IDJmIDQzIDc5IDYyIDY1IDcyIDJkIDUzIDY1IDYzIDc1ICB8dHdhcmUvQ3liZXItU2VjdXwKMDAwMDAwMzAgIDcyIDY5IDc0IDc5IDJkIDU1IDZlIDY5IDc2IDY1IDcyIDczIDY5IDc0IDc5IDIyICB8cml0eS1Vbml2ZXJzaXR5InwKMDAwMDAwNDAgIDNlIDNjIDY5IDZkIDY3IDIwIDczIDcyIDYzIDNkIDIyIDY4IDc0IDc0IDcwIDczICB8PjxpbWcgc3JjPSJodHRwc3wKMDAwMDAwNTAgIDNhIDJmIDJmIDY5IDZkIDY3IDJlIDczIDY4IDY5IDY1IDZjIDY0IDczIDJlIDY5ICB8Oi8vaW1nLnNoaWVsZHMuaXwKMDAwMDAwNjAgIDZmIDJmIDYyIDYxIDY0IDY3IDY1IDJmIDQzIDZmIDZkIDcwIDZjIDY1IDc0IDY1ICB8by9iYWRnZS9Db21wbGV0ZXwKMDAwMDAwNzAgIDY0IDJkIDUyIDY1IDY0IDI1IDMyIDMwIDU0IDY1IDYxIDZkIDI1IDMyIDMwIDUwICB8ZC1SZWQlMjBUZWFtJTIwUHwKMDAwMDAwODAgIDYxIDc0IDY4IDJkIDcyIDY1IDY0IDIyIDIwIDJmIDNlIDNjIDJmIDYxIDNlICAgICB8YXRoLXJlZCIgLz48L2E+fA==```
-
-<!--lint disable double-link-->
-Copy the decoded string and add it to the [Free Beginner Red Team Path section](#contents) of the content page.
+<https://gist.github.com/brootware/e30a10dbccf334eb95da7ea59d6f87fe>
 
 </details>
 
+<!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
 ## Free Beginner Blue Team Path
@@ -247,17 +243,13 @@ Copy the decoded string and add it to the [Free Beginner Red Team Path section](
 > Congratulations! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
 
 <details>
-  <summary>Click here to get your blue team badge!</summary>
-  
-Decode this below to get your badge 😈
+ <summary>Click here to get your blue team badge!</summary>
 
-```M2MgNjEgMjAgNjggNzIgNjUgNjYgM2QgMjIgNjggNzQgNzQgNzAgNzMgM2EgMmYgMmYgNjcgNjkgNzQgNjggNzUgNjIgMmUgNjMgNmYgNmQgMmYgNjIgNzIgNmYgNmYgNzQgNzcgNjEgNzIgNjUgMmYgNDMgNzkgNjIgNjUgNzIgMmQgNTMgNjUgNjMgNzUgNzIgNjkgNzQgNzkgMmQgNTUgNmUgNjkgNzYgNjUgNzIgNzMgNjkgNzQgNzkgMjIgM2UgM2MgNjkgNmQgNjcgMjAgNzMgNzIgNjMgM2QgMjIgNjggNzQgNzQgNzAgNzMgM2EgMmYgMmYgNjkgNmQgNjcgMmUgNzMgNjggNjkgNjUgNmMgNjQgNzMgMmUgNjkgNmYgMmYgNjIgNjEgNjQgNjcgNjUgMmYgNDMgNmYgNmQgNzAgNmMgNjUgNzQgNjUgNjQgMmQgNDIgNmMgNzUgNjUgMjUgMzIgMzAgNTQgNjUgNjEgNmQgMjUgMzIgMzAgNTAgNjEgNzQgNjggMmQgNjIgNmMgNzUgNjUgMjIgMjAgMmYgM2UgM2MgMmYgNjEgM2U=```
-
-<!--lint disable double-link-->
-Copy the decoded string and add it to the [Free Beginner Blue Team Path section](#contents) of the content page.
+<https://gist.github.com/brootware/62b76a84aaa8d6f55c82f6f329ad6d2d>
 
 </details>
 
+<!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
 
