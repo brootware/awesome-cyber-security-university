@@ -163,10 +163,9 @@ Pull requests are welcome with the condition that the resource should be free! P
 <https://gist.github.com/brootware/e30a10dbccf334eb95da7ea59d6f87fe>
 
 </details>
+
 <!--lint disable double-link-->
-
 [↑](#contents)
-
 <!--lint enable double-link-->
 ## Free Beginner Blue Team Path
 
@@ -249,8 +248,8 @@ Pull requests are welcome with the condition that the resource should be free! P
 <https://gist.github.com/brootware/62b76a84aaa8d6f55c82f6f329ad6d2d>
 
 </details>
-<!--lint disable double-link-->
 
+<!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
 
