@@ -320,9 +320,9 @@ Copy the decoded string and add it to the [Free Beginner Blue Team Path section]
 
 Special thanks to everyone who forked or starred the repository ❤️
 
-[![Stargazers repo roster for @brootware/cyber-security-university](https://reporoster.com/stars/dark/brootware/cyber-security-university)](https://github.com/brootware/cyber-security-university/stargazers)
+[![Stargazers repo roster for @brootware/awesome-cyber-security-university](https://reporoster.com/stars/dark/brootware/awesome-cyber-security-university)](https://github.com/brootware/awesome-cyber-security-university/stargazers)
 
-[![Forkers repo roster for @brootware/cyber-security-university](https://reporoster.com/forks/dark/brootware/cyber-security-university)](https://github.com/brootware/cyber-security-university/network/members)
+[![Forkers repo roster for @brootware/awesome-cyber-security-university](https://reporoster.com/forks/dark/brootware/awesome-cyber-security-university)](https://github.com/brootware/awesome-cyber-security-university/network/members)
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
