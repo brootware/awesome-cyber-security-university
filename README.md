@@ -160,15 +160,12 @@ Pull requests are welcome with the condition that the resource should be free! P
 <details>
   <summary>Click here to get your red team badge!</summary>
 
-<a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Red%20Team%20Path-red" /></a>
+Decode this below to get your badge 😈
 
-```html
+```MDAwMDAwMDAgIDNjIDYxIDIwIDY4IDcyIDY1IDY2IDNkIDIyIDY4IDc0IDc0IDcwIDczIDNhIDJmICB8PGEgaHJlZj0iaHR0cHM6L3wKMDAwMDAwMTAgIDJmIDY3IDY5IDc0IDY4IDc1IDYyIDJlIDYzIDZmIDZkIDJmIDYyIDcyIDZmIDZmICB8L2dpdGh1Yi5jb20vYnJvb3wKMDAwMDAwMjAgIDc0IDc3IDYxIDcyIDY1IDJmIDQzIDc5IDYyIDY1IDcyIDJkIDUzIDY1IDYzIDc1ICB8dHdhcmUvQ3liZXItU2VjdXwKMDAwMDAwMzAgIDcyIDY5IDc0IDc5IDJkIDU1IDZlIDY5IDc2IDY1IDcyIDczIDY5IDc0IDc5IDIyICB8cml0eS1Vbml2ZXJzaXR5InwKMDAwMDAwNDAgIDNlIDNjIDY5IDZkIDY3IDIwIDczIDcyIDYzIDNkIDIyIDY4IDc0IDc0IDcwIDczICB8PjxpbWcgc3JjPSJodHRwc3wKMDAwMDAwNTAgIDNhIDJmIDJmIDY5IDZkIDY3IDJlIDczIDY4IDY5IDY1IDZjIDY0IDczIDJlIDY5ICB8Oi8vaW1nLnNoaWVsZHMuaXwKMDAwMDAwNjAgIDZmIDJmIDYyIDYxIDY0IDY3IDY1IDJmIDQzIDZmIDZkIDcwIDZjIDY1IDc0IDY1ICB8by9iYWRnZS9Db21wbGV0ZXwKMDAwMDAwNzAgIDY0IDJkIDUyIDY1IDY0IDI1IDMyIDMwIDU0IDY1IDYxIDZkIDI1IDMyIDMwIDUwICB8ZC1SZWQlMjBUZWFtJTIwUHwKMDAwMDAwODAgIDYxIDc0IDY4IDJkIDcyIDY1IDY0IDIyIDIwIDJmIDNlIDNjIDJmIDYxIDNlICAgICB8YXRoLXJlZCIgLz48L2E+fA==```
 
-<a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Red%20Team%20Path-red" /></a>
-
-```
 <!--lint disable double-link-->
-Copy above and add it to the [Free Beginner Red Team Path section](#contents) of the content page.
+Copy the decoded string and add it to the [Free Beginner Red Team Path section](#contents) of the content page.
 
 </details>
 
@@ -252,15 +249,12 @@ Copy above and add it to the [Free Beginner Red Team Path section](#contents) of
 <details>
   <summary>Click here to get your blue team badge!</summary>
   
-<a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Blue%20Team%20Path-blue" /></a>
+Decode this below to get your badge 😈
 
-```html
+```M2MgNjEgMjAgNjggNzIgNjUgNjYgM2QgMjIgNjggNzQgNzQgNzAgNzMgM2EgMmYgMmYgNjcgNjkgNzQgNjggNzUgNjIgMmUgNjMgNmYgNmQgMmYgNjIgNzIgNmYgNmYgNzQgNzcgNjEgNzIgNjUgMmYgNDMgNzkgNjIgNjUgNzIgMmQgNTMgNjUgNjMgNzUgNzIgNjkgNzQgNzkgMmQgNTUgNmUgNjkgNzYgNjUgNzIgNzMgNjkgNzQgNzkgMjIgM2UgM2MgNjkgNmQgNjcgMjAgNzMgNzIgNjMgM2QgMjIgNjggNzQgNzQgNzAgNzMgM2EgMmYgMmYgNjkgNmQgNjcgMmUgNzMgNjggNjkgNjUgNmMgNjQgNzMgMmUgNjkgNmYgMmYgNjIgNjEgNjQgNjcgNjUgMmYgNDMgNmYgNmQgNzAgNmMgNjUgNzQgNjUgNjQgMmQgNDIgNmMgNzUgNjUgMjUgMzIgMzAgNTQgNjUgNjEgNmQgMjUgMzIgMzAgNTAgNjEgNzQgNjggMmQgNjIgNmMgNzUgNjUgMjIgMjAgMmYgM2UgM2MgMmYgNjEgM2U=```
 
-<a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Blue%20Team%20Path-blue" /></a>
-
-```
 <!--lint disable double-link-->
-Copy above and add it to the [Free Beginner Blue Team Path section](#contents) of the content page.
+Copy the decoded string and add it to the [Free Beginner Blue Team Path section](#contents) of the content page.
 
 </details>
 
