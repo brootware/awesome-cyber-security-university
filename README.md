@@ -114,7 +114,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [OWASP top 10](<https://tryhackme.com/room/owasptop10>) - Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks.
 * [Inclusion](<https://tryhackme.com/room/inclusion>) - A beginner-level LFI challenge.
 * [Injection](<https://tryhackme.com/room/injection>) - Walkthrough of OS Command Injection. Demonstrate OS Command Injection and explain how to prevent it on your servers.
-* [Juiceshop](<https://tryhackme.com/room/owaspjuiceshop>) - This room uses the Juice Shop vulnerable web application to learn how to identify and exploit common web application vulnerabilities.
+* [Juiceshop](<https://tryhackme.com/room/owaspjuiceshop>) - This room uses the OWASP juice shop vulnerable web application to learn how to identify and exploit common web application vulnerabilities.
 * [Overpass](<https://tryhackme.com/room/overpass>) - What happens when some broke CompSci students make a password manager.
 * [Year of the Rabbit](<https://tryhackme.com/room/yearoftherabbit>) - Can you hack into the Year of the Rabbit box without falling down a hole.
 * [DevelPy](<https://tryhackme.com/room/bsidesgtdevelpy>) - Boot2root machine for FIT and bsides Guatemala CTF.
