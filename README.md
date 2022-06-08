@@ -114,7 +114,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [OWASP top 10](<https://tryhackme.com/room/owasptop10>) - Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks.
 * [Inclusion](<https://tryhackme.com/room/inclusion>) - A beginner-level LFI challenge.
 * [Injection](<https://tryhackme.com/room/injection>) - Walkthrough of OS Command Injection. Demonstrate OS Command Injection and explain how to prevent it on your servers.
-* [Juiceshop](<https://tryhackme.com/room/owaspjuiceshop>) - This room uses the Juice Shop vulnerable web application to learn how to identify and exploit common web application vulnerabilities.
+* [Juiceshop](<https://tryhackme.com/room/owaspjuiceshop>) - This room uses the OWASP juice shop vulnerable web application to learn how to identify and exploit common web application vulnerabilities.
 * [Overpass](<https://tryhackme.com/room/overpass>) - What happens when some broke CompSci students make a password manager.
 * [Year of the Rabbit](<https://tryhackme.com/room/yearoftherabbit>) - Can you hack into the Year of the Rabbit box without falling down a hole.
 * [DevelPy](<https://tryhackme.com/room/bsidesgtdevelpy>) - Boot2root machine for FIT and bsides Guatemala CTF.
@@ -144,7 +144,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Windows Privesc Arena](<https://tryhackme.com/room/windowsprivescarena>) - Students will learn how to escalate privileges using a very vulnerable Windows 7 VM.
 * [Linux Privesc Arena](<https://tryhackme.com/room/linuxprivescarena>) - Students will learn how to escalate privileges using a very vulnerable Linux VM.
 * [Windows Privesc](<https://tryhackme.com/room/windows10privesc>) - Students will learn how to escalate privileges using a very vulnerable Windows 7 VM.
-* [Blaster](<https://tryhackme.com/room/blaster>) - Metasploit framework to get a foothold.
+* [Blaster](<https://tryhackme.com/room/blaster>) - Metasploit Framework to get a foothold.
 * [Ignite](<https://tryhackme.com/room/ignite>) - A new start-up has a few security issues with its web server.
 * [Kenobi](<https://tryhackme.com/room/kenobi>) - Walkthrough on exploiting a Linux machine. Enumerate Samba for shares, manipulate a vulnerable version of proftpd and escalate your privileges with path variable manipulation.
 * [Capture the flag](<https://tryhackme.com/room/c4ptur3th3fl4g>) - Another beginner-level CTF challenge.
@@ -204,8 +204,8 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Trivial flag transfer protocol](<https://play.picoctf.org/practice/challenge/103?category=4&page=1&solved=0>) - Beginner packet analysis challenge.
 * [What Lies within](<https://play.picoctf.org/practice/challenge/74?category=4&page=2&solved=0>) - Beginner decoding analysis challenge.
 * [Illumination](<https://app.hackthebox.com/challenges/illumination>) - Medium level forensics challenge.
-* [Emo](<https://app.hackthebox.com/challenges/emo>) - Medium-level forensics challenge.
-* [Obsecure](<https://app.hackthebox.com/challenges/obscure>) - Medium-level forensics challenge.
+* [Emo](<https://app.hackthebox.com/challenges/emo>) - Medium level forensics challenge.
+* [Obsecure](<https://app.hackthebox.com/challenges/obscure>) - Medium level forensics challenge.
 * [Bucket - Cloud Security Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/84>) - Medium level cloud security challenge.
 * [Introduction to Cryptohack](<https://cryptohack.org/courses/intro/course_details/>) - Medium level cryptography challenge.
 
@@ -215,12 +215,12 @@ Pull requests are welcome with the condition that the resource should be free! P
 ### Level 4 - Memory & Disk Forensics
 
 * [Sleuthkit Intro](<https://play.picoctf.org/practice/challenge/301?category=4&page=2&solved=0>) - Medium level disk forensics challenge.
-* [Reminiscent](<https://app.hackthebox.com/challenges/reminiscent>) - Medium-level disk forensics challenge.
+* [Reminiscent](<https://app.hackthebox.com/challenges/reminiscent>) - Medium level disk forensics challenge.
 * [Hunter - Windows Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/32>) - Medium level disk forensics challenge.
 * [Spotlight - Mac Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/34>) - Medium level disk forensics challenge.
 * [Ulysses -  Linux Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/41>) - Medium level disk forensics challenge.
 * [Banking Troubles - Windows Memory Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/43>) - Medium level memory forensics challenge.
-* [Detect Log4J](<https://cyberdefenders.org/blueteam-ctf-challenges/86>) - Medium-level disk forensics challenge.
+* [Detect Log4J](<https://cyberdefenders.org/blueteam-ctf-challenges/86>) - Medium level disk forensics challenge.
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
@@ -233,7 +233,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Intro Windows Reversing](<https://tryhackme.com/room/windowsreversingintro>) - Intro to Windows RE.
 * [Windows x64 Assembly](<https://tryhackme.com/room/win64assembly>) - Introduction to x64 Assembly on Windows.
 * [JVM reverse engineering](<https://tryhackme.com/room/jvmreverseengineering>) - Learn Reverse Engineering for Java Virtual Machine bytecode.
-* [Get PDF (Malicious Document)](<https://cyberdefenders.org/blueteam-ctf-challenges/47>) - Reversing PDF Malware.
+* [Get PDF (Malicious Document)](<https://cyberdefenders.org/blueteam-ctf-challenges/47>) - Reversing PDF malware.
 
 > Congratulations! If you have finished until here. You deserve a badge! Put this in your writeups or git profile. You can continue doing the below CTFs.
 
