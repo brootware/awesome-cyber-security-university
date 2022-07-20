@@ -60,7 +60,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Pentesting fundamentals](<https://tryhackme.com/room/pentestingfundamentals>) - Fundamentals of penetration testing.
 * [Principles of security](<https://tryhackme.com/room/principlesofsecurity>) - Principles of security.
 * [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>) - Intro to red team engagements.
-* [Crash Course Pentesting](<https://tryhackme.com/room/ccpentesting>) - Intro crash course to penetration testing.
+* [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
 
 <!-- markdownlint-disable MD036 -->
 **Introductory CTFs to get your feet wet**<!-- markdownlint-enable MD036 -->
