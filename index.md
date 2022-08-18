@@ -287,7 +287,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Carpe Diem 1](<https://tryhackme.com/room/carpediem1>) - Recover your client's encrypted files before the ransomware timer runs out.
 * [Borderlands](<https://tryhackme.com/room/borderlands>) - Compromise a perimeter host and pivot through this network.
 * [Jeff](<https://tryhackme.com/room/jeff>) - Hack into Jeff's web server.
-* [Year of the [Owl](https://tryhackme.com/room/yearoftheowl) - Owl-themed boot to root machine.
+* [Year of the Owl](https://tryhackme.com/room/yearoftheowl) - Owl-themed boot to root machine.
 * [Anonymous Playground](<https://tryhackme.com/room/anonymousplayground>) - Want to become part of Anonymous? They have a challenge for you.
 * [EnterPrize](<https://tryhackme.com/room/enterprize>) - Enterprise-themed network to hack into.
 * [Racetrack Bank](<https://tryhackme.com/room/racetrackbank>) - It's time for another heist.
