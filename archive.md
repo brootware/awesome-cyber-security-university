@@ -10,3 +10,6 @@ The following markdown is the place for archived, old, deleted, costs money or u
 * [Ra2](<https://tryhackme.com/room/ra2>)
 * [Osiris](<https://tryhackme.com/room/osiris>)
 * [Set](<https://tryhackme.com/room/set>)
+
+<https://tryhackme.com/room/printnightmarec2bn7l>
+<https://tryhackme.com/room/tempestincident>
