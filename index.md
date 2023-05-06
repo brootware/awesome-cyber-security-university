@@ -105,6 +105,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Ice](<https://tryhackme.com/room/ice>) - Deploy & hack into a Windows machine, exploiting a very poorly secured media server.
 * [Lazy Admin](<https://tryhackme.com/room/lazyadmin>) - Easy linux machine to practice your skills.
 * [Basic Pentesting](<https://tryhackme.com/room/basicpentestingjt>) - This is a machine that allows you to practice web app hacking and privilege escalation.
+* [Bypassing UAC](https://tryhackme.com/room/bypassinguac) - Learn common ways to bypass User Account Control (UAC) in Windows hosts.
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
