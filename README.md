@@ -202,7 +202,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 [↑](#contents)
 <!--lint enable double-link-->
 
-### Level 3 - Beginner Forensics & Cryptography
+### Level 3 - Beginner Forensics, Threat Intel & Cryptography
 
 * [Martryohka doll](<https://play.picoctf.org/practice/challenge/129?category=4&page=1&solved=0>) - Beginner file analysis challenge.
 * [The Glory of the Garden](<https://play.picoctf.org/practice/challenge/44?category=4&page=1&solved=0>) - Beginner image analysis challenge.
@@ -214,7 +214,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Illumination](<https://app.hackthebox.com/challenges/illumination>) - Medium level forensics challenge.
 * [Emo](<https://app.hackthebox.com/challenges/emo>) - Medium level forensics challenge.
 * [Obsecure](<https://app.hackthebox.com/challenges/obscure>) - Medium level forensics challenge.
-* [Bucket - Cloud Security Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/84>) - Medium level cloud security challenge.
+* [Intel101 Challenge](<https://cyberdefenders.org/blueteam-ctf-challenges/38>) - Medium level Threat Intel challenge.
 * [Introduction to Cryptohack](<https://cryptohack.org/courses/intro/course_details/>) - Medium level cryptography challenge.
 
 <!--lint disable double-link-->
