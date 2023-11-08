@@ -8,7 +8,7 @@
 <i>Because education should be free.</i>
 <br/>
 
-<a href="https://brootware.github.io/cyber-security-university/"><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
+<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
 </div>
 
 ## Contents
@@ -66,7 +66,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 **Introductory CTFs to get your feet wet**<!-- markdownlint-enable MD036 -->
 
 * [Google Dorking](<https://tryhackme.com/room/googledorking>) - Explaining how Search Engines work and leveraging them into finding hidden content!
-* [OHsint](<https://tryhackme.com/room/ohsint>) - Intro to Open Source Intelligence.
+* [Osint](<https://tryhackme.com/room/ohsint>) - Intro to Open Source Intelligence.
 * [Shodan.io](<https://tryhackme.com/room/shodan>) - Learn about Shodan.io and how to use it for device enumeration.
 
 <!--lint disable double-link-->
@@ -77,7 +77,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 ### Level 2 - Tooling
 
 * [Tmux](<https://tryhackme.com/room/rptmux>) - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
-* [Nmap](<https://tryhackme.com/room/rpnmap>) - Get experience with Nmap, a powerful network scanning tool.
+* [Nmap,Curl and Netcat](<https://echoctf.red/challenge/1>) - Get experience with Nmap, Curl and Netcat for network communications.
 * [Web Scanning](<https://tryhackme.com/room/rpwebscanning>) - Learn the basics of automated web scanning.
 * [Sublist3r](<https://tryhackme.com/room/rpsublist3r>) - Learn how to find subdomains with Sublist3r.
 * [Metasploit](<https://tryhackme.com/room/rpmetasploit>) - An introduction to the main components of the Metasploit Framework.
@@ -105,6 +105,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Ice](<https://tryhackme.com/room/ice>) - Deploy & hack into a Windows machine, exploiting a very poorly secured media server.
 * [Lazy Admin](<https://tryhackme.com/room/lazyadmin>) - Easy linux machine to practice your skills.
 * [Basic Pentesting](<https://tryhackme.com/room/basicpentestingjt>) - This is a machine that allows you to practice web app hacking and privilege escalation.
+* [Bypassing UAC](https://tryhackme.com/room/bypassinguac) - Learn common ways to bypass User Account Control (UAC) in Windows hosts.
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
@@ -182,7 +183,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
 
-### Level 2 - Security Operations & Incident Response
+### Level 2 - Security Operations, Incident Response & Threat Hunting
 
 * [Investigating Windows](<https://tryhackme.com/room/investigatingwindows>) - Investigating Windows.
 * [Juicy Details](<https://tryhackme.com/room/juicydetails>) - A popular juice shop has been breached! Analyze the logs to see what had happened.
@@ -192,12 +193,16 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Splunk Boss of the SOC V2](<https://cyberdefenders.org/blueteam-ctf-challenges/16>) - Splunk analysis vol 2.
 * [Splunk Boss of the SOC V3](<https://cyberdefenders.org/blueteam-ctf-challenges/8>) - Splunk analysis vol 3.
 * [Hunt Conti with Splunk](https://tryhackme.com/room/contiransomwarehgh) - An Exchange server was compromised with ransomware. Use Splunk to investigate how the attackers compromised the server.
+* [Hunting for Execution Tactic](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-3) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT&CK Tactic of Execution (TA0002).
+* [Hunting for Credential Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-5) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT&CK Tactic of Credential Access (TA0006).
+* [Hunting for Persistence Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2) - Join Cyborg Security's team of threat hunting instructors for a fun and hands-on-keyboard threat hunting workshop covering the topic of adversarial persistence (TA0003).
+* [Hunting for Defense Evation](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT&CK Tactic of Defense Evasion (TA0005).
 
 <!--lint disable double-link-->
 [↑](#contents)
 <!--lint enable double-link-->
 
-### Level 3 - Beginner Forensics & Cryptography
+### Level 3 - Beginner Forensics, Threat Intel & Cryptography
 
 * [Martryohka doll](<https://play.picoctf.org/practice/challenge/129?category=4&page=1&solved=0>) - Beginner file analysis challenge.
 * [The Glory of the Garden](<https://play.picoctf.org/practice/challenge/44?category=4&page=1&solved=0>) - Beginner image analysis challenge.
@@ -209,7 +214,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Illumination](<https://app.hackthebox.com/challenges/illumination>) - Medium level forensics challenge.
 * [Emo](<https://app.hackthebox.com/challenges/emo>) - Medium level forensics challenge.
 * [Obsecure](<https://app.hackthebox.com/challenges/obscure>) - Medium level forensics challenge.
-* [Bucket - Cloud Security Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/84>) - Medium level cloud security challenge.
+* [Intel101 Challenge](<https://cyberdefenders.org/blueteam-ctf-challenges/38>) - Medium level Threat Intel challenge.
 * [Introduction to Cryptohack](<https://cryptohack.org/courses/intro/course_details/>) - Medium level cryptography challenge.
 
 <!--lint disable double-link-->
@@ -252,6 +257,8 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ## Bonus CTF practice and Latest CVEs
 
+* [Bandit](<https://overthewire.org/wargames/bandit/>) - Aimed at absolute beginners and teaches the basics of remote server access.
+* [Natas](<https://overthewire.org/wargames/natas/>) - Teaches the basics of serverside web-security.
 * [Post Exploitation Basics](<https://tryhackme.com/room/postexploit>) - Learn the basics of post-exploitation and maintaining access with mimikatz, bloodhound, powerview and msfvenom.
 * [Smag Grotto](<https://tryhackme.com/room/smaggrotto>) - An obsecure boot to root machine.
 * [Dogcat](<https://tryhackme.com/room/dogcat>) - I made a website where you can look at pictures of dogs and/or cats! Exploit a PHP application via LFI and break out of a docker container.
@@ -287,7 +294,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Carpe Diem 1](<https://tryhackme.com/room/carpediem1>) - Recover your client's encrypted files before the ransomware timer runs out.
 * [Borderlands](<https://tryhackme.com/room/borderlands>) - Compromise a perimeter host and pivot through this network.
 * [Jeff](<https://tryhackme.com/room/jeff>) - Hack into Jeff's web server.
-* [Year of the [Owl](https://tryhackme.com/room/yearoftheowl) - Owl-themed boot to root machine.
+* [Year of the Owl](https://tryhackme.com/room/yearoftheowl) - Owl-themed boot to root machine.
 * [Anonymous Playground](<https://tryhackme.com/room/anonymousplayground>) - Want to become part of Anonymous? They have a challenge for you.
 * [EnterPrize](<https://tryhackme.com/room/enterprize>) - Enterprise-themed network to hack into.
 * [Racetrack Bank](<https://tryhackme.com/room/racetrackbank>) - It's time for another heist.
@@ -303,7 +310,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 ### Contributors & stargazers ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Special thanks to everyone who forked or starred the repository ❤️
@@ -319,7 +326,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://brootware.github.io"><img src="https://avatars.githubusercontent.com/u/7734956?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oaker Min</b></sub></a><br /><a href="#infra-brootware" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-brootware" title="Maintenance">🚧</a> <a href="https://github.com/brootware/Cyber-Security-University/commits?author=brootware" title="Documentation">📖</a> <a href="https://github.com/brootware/Cyber-Security-University/commits?author=brootware" title="Code">💻</a></td>
+    <td align="center"><a href="https://brootware.github.io"><img src="https://avatars.githubusercontent.com/u/7734956?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oaker Min</b></sub></a><br /><a href="#infra-brootware" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-brootware" title="Maintenance">🚧</a> <a href="https://github.com/brootware/cyber-security-university/commits?author=brootware" title="Documentation">📖</a> <a href="https://github.com/brootware/cyber-security-university/commits?author=brootware" title="Code">💻</a></td>
+    <td align="center"><a href="https://lucidcode.com"><img src="https://avatars.githubusercontent.com/u/1631870?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Paul Coder</b></sub></a><br /><a href="https://github.com/brootware/cyber-security-university/commits?author=IAmCoder" title="Documentation">📖</a></td>
   </tr>
 </table>
 

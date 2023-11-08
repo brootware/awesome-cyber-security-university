@@ -16,10 +16,19 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "IAmCoder",
+      "name": "Michael Paul Coder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1631870?v=4",
+      "profile": "https://lucidcode.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "Cyber-Security-University",
+  "projectName": "cyber-security-university",
   "projectOwner": "brootware",
   "repoType": "github",
   "repoHost": "https://github.com",
