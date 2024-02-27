@@ -331,7 +331,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
 </table>
 
-<!-- markdownlint-restore -->
+<!-- markdownlint-restore --
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
