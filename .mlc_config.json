@@ -8,6 +8,9 @@
         },
         {
             "pattern": "^https://skerritt.blog/free-rooms/"
+        },
+        {
+            "pattern": "^https://x.com/brootware"
         }
     ],
     "timeout": "20s",
