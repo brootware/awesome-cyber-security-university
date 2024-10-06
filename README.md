@@ -223,6 +223,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Obsecure](<https://app.hackthebox.com/challenges/obscure>) - Medium level forensics challenge.
 * [Intel101 Challenge](<https://cyberdefenders.org/blueteam-ctf-challenges/38>) - Medium level Threat Intel challenge.
 * [Introduction to Cryptohack](<https://cryptohack.org/courses/intro/course_details/>) - Medium level cryptography challenge.
+* [Infostealers Hub by Hudson Rock](https://www.infostealers.com/) - The all-around Infostealers hub with reports and recent news
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
