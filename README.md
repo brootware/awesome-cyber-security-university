@@ -68,6 +68,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Principles of security](<https://tryhackme.com/room/principlesofsecurity>) - Principles of security.
 * [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>) - Intro to red team engagements.
 * [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
+* [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) - A free course with 41 hands-on labs to practice and master the most commonly used Linux commands.
 
 <!-- markdownlint-disable MD036 -->
 **Introductory CTFs to get your feet wet**<!-- markdownlint-enable MD036 -->
@@ -92,6 +93,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Linux Privesc](<https://tryhackme.com/room/linuxprivesc>) - Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root! SSH is available.
 * [Red Team Fundamentals](<https://tryhackme.com/room/redteamfundamentals>) - Learn about the basics of a red engagement, the main components and stakeholders involved, and how red teaming differs from other cyber security engagements.
 * [Red Team Recon](<https://tryhackme.com/room/redteamrecon>) - Learn how to use DNS, advanced searching, Recon-ng, and Maltego to collect information about your target.
+* [Nmap Tutorials](https://labex.io/tutorials/quick-start-with-nmap-free-tutorials-400132) - Learn and practice the basics of network scanning using Nmap.
 
 <!-- markdownlint-disable MD036 -->
 **Red Team Intro CTFs**<!-- markdownlint-enable MD036 -->
