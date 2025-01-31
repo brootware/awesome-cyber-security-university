@@ -136,7 +136,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ### Level 5 - Reverse Engineering & Pwn
 
-* [Intro to x86 64](<https://tryhackme.com/room/introtox8664>) - This room teaches the basics of x86-64 assembly language.
+* [Windows x64 Assembly](<https://tryhackme.com/r/room/win64assembly>) - Introduction to x64 Assembly on Windows.
 * [CC Ghidra](<https://tryhackme.com/room/ccghidra>) - This room teaches the basics of ghidra.
 * [CC Radare2](<https://tryhackme.com/room/ccradare2>) - This room teaches the basics of radare2.
 * [Reverse Engineering](<https://tryhackme.com/room/reverseengineering>) - This room focuses on teaching the basics of assembly through reverse engineering.
