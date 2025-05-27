@@ -213,6 +213,8 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ### Level 3 - Beginner Forensics, Threat Intel & Cryptography
 
+* [Threat Intelligence 101](<https://tryhackme.com/room/cyberthreatintel>) - Introduction to Cyber Threat Intelligence.
+* [Threat Intelligence Tools](<https://tryhackme.com/room/threatinteltools>) - Explore different OSINT tools used to conduct security threat assessments and investigations.
 * [Martryohka doll](<https://play.picoctf.org/practice/challenge/129?category=4&page=1&solved=0>) - Beginner file analysis challenge.
 * [The Glory of the Garden](<https://play.picoctf.org/practice/challenge/44?category=4&page=1&solved=0>) - Beginner image analysis challenge.
 * [Packets Primer](<https://play.picoctf.org/practice/challenge/286?category=4&page=2&solved=0>) - Beginner packet analysis challenge.
