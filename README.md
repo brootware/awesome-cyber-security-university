@@ -87,7 +87,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Tmux](<https://tryhackme.com/room/rptmux>) - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
 * [Nmap,Curl and Netcat](<https://echoctf.red/challenge/1>) - Get experience with Nmap, Curl and Netcat for network communications.
 * [Web Scanning](<https://tryhackme.com/room/rustscan>) - Learn the basics of automated web scanning.
-* [Sublist3r](<https://tryhackme.com/room/rpsublist3r>) - Learn how to find subdomains with Sublist3r.
+* [Subdomain Enumeration](<https://tryhackme.com/room/subdomainenumeration>) - Learn how to find subdomains with different techniques.
 * [Metasploit](<https://tryhackme.com/room/metasploitintro>) - An introduction to the main components of the Metasploit Framework.
 * [Hydra](<https://tryhackme.com/room/hydra>) - Learn about and use Hydra, a fast network logon cracker, to bruteforce and obtain a website's credentials.
 * [Linux Privesc](<https://tryhackme.com/room/linuxprivesc>) - Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root! SSH is available.
