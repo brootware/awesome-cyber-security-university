@@ -266,6 +266,58 @@ Pull requests are welcome with the condition that the resource should be free! P
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
 
+## Free Beginner Purple Team Path
+
+### Level 1 - Foundations
+
+* [Introduction to Purple Teaming](<https://tryhackme.com/room/introductiontopurpleteaming>) - Learn the fundamentals of purple teaming.
+* [Threat-Informed Defense](<https://academy.attackiq.com/courses/threat-informed-defense>) - A free course on threat-informed defense from AttackIQ Academy.
+* [MITRE ATT&CK for Defenders](<https://attack.mitre.org/>) - Understanding the ATT&CK framework from a defender's perspective.
+
+### Level 2 - Emulation and Detection
+
+* [Atomic Red Team](<https://github.com/redcanaryco/atomic-red-team>) - A library of simple tests that every security team can use to test their controls.
+* [Caldera](<https://github.com/mitre/caldera>) - An automated adversary emulation system.
+* [Sigma](<https://github.com/SigmaHQ/sigma>) - Generic signatures for SIEM systems.
+
+## Cloud Security
+
+### Level 1 - Cloud Fundamentals
+
+* [Introduction to Cloud Computing](<https://tryhackme.com/room/introductiontocloudcomputing>) - Learn the fundamentals of cloud computing.
+* [AWS Certified Cloud Practitioner](<https://aws.amazon.com/certification/certified-cloud-practitioner/>) - Foundational knowledge of AWS Cloud.
+* [Azure Fundamentals](<https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/>) - Foundational knowledge of Azure.
+* [Google Cloud Digital Leader](<https://cloud.google.com/certification/cloud-digital-leader>) - Foundational knowledge of Google Cloud.
+
+### Level 2 - Cloud Security Fundamentals
+
+* [AWS Security Fundamentals](<https://aws.amazon.com/training/digital/aws-security-fundamentals/>) - A free, self-paced digital course on AWS security fundamentals.
+* [Microsoft Azure Security Technologies](<https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer/>) - Learn how to implement security controls and threat protection in Azure.
+* [Google Cloud Security Best Practices](<https://cloud.google.com/security/best-practices>) - A guide to security best practices on Google Cloud.
+
+### Level 3 - Hands-On Cloud Security
+
+* [CloudGoat](<https://github.com/RhinoSecurityLabs/cloudgoat>) - Rhino Security Labs' "Vulnerable by Design" AWS deployment tool.
+* [SADCloud](<https://github.com/nccgroup/sadcloud>) - A tool for spinning up vulnerable-by-design AWS infrastructure.
+* [GCPGoat](<https://github.com/ine-labs/GCPGoat>) - A vulnerable GCP infrastructure.
+
+## Mobile Security
+
+### Level 1 - Mobile Security Fundamentals
+
+* [OWASP Mobile Top 10](<https://owasp.org/www-project-mobile-top-10/>) - The top 10 most critical mobile security risks.
+* [Introduction to Mobile Security](<https://www.cybrary.it/course/intro-to-mobile-security/>) - A free course on mobile security from Cybrary.
+
+### Level 2 - Android Security
+
+* [Android Security for Beginners](<https://www.udacity.com/course/android-security-for-beginners--ud996>) - A free course from Udacity.
+* [InsecureBankv2](<https://github.com/dineshshetty/Android-InsecureBankv2>) - A vulnerable Android application.
+
+### Level 3 - iOS Security
+
+* [iOS Security for Beginners](<https://www.hacker101.com/videos/ios-basics>) - A free course from Hacker101.
+* [Damn Vulnerable iOS App (DVIA)](<https://github.com/prateek147/DVIA-v2>) - A vulnerable iOS application.
+
 ## Bonus CTF practice and Latest CVEs
 
 * [Bandit](<https://overthewire.org/wargames/bandit/>) - Aimed at absolute beginners and teaches the basics of remote server access.
