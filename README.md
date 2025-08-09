@@ -8,7 +8,7 @@
 <i>Because education should be free.</i>
 <br/>
 
-<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
+<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="https://vbr.nathanchung.dev/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
 </div>
 
 ## Contents
