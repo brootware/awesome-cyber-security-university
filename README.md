@@ -69,6 +69,8 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>) - Intro to red team engagements.
 * [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
 * [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) - A free course with 41 hands-on labs to practice and master the most commonly used Linux commands.
+* [Steganography Techniques](https://pwn.guide/free/cryptography/steganography) - Learn about steganography techniques for hiding secret information within digital media.
+* [Email Spoofing](https://pwn.guide/free/other/email-spoofing) - Learn how email spoofing works and tools used.
 
 <!-- markdownlint-disable MD036 -->
 **Introductory CTFs to get your feet wet**<!-- markdownlint-enable MD036 -->
@@ -130,6 +132,10 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [DevelPy](<https://tryhackme.com/room/bsidesgtdevelpy>) - Boot2root machine for FIT and bsides Guatemala CTF.
 * [Jack of all trades](<https://tryhackme.com/room/jackofalltrades>) - Boot-to-root originally designed for Securi-Tay 2020.
 * [Bolt](https://tryhackme.com/room/bolt) - Bolt themed machine to root into.
+* [Autofill Phishing Explained](https://pwn.guide/free/web/autofill) - How autofill data phishing works with a PoC.
+* [Directory Traversal Explained](https://pwn.guide/free/web/dir-traversal) - Learn what it is and how to exploit it.
+* [Subdomain Squatting](https://pwn.guide/free/web/subdomain-squatting) - Learn what subdomain squatting is, how it works...
+* [Create a BITB Attack](https://pwn.guide/free/web/bitb-attack) - How to create a BITB attack to teach your employees about phishing.
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
@@ -144,6 +150,8 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Dumping Router Firmware](<https://tryhackme.com/room/rfirmware>) - Reverse engineering router firmware.
 * [Intro to pwntools](<https://tryhackme.com/room/introtopwntools>) - Introduction to popular pwn tools framework.
 * [Pwnkit: CVE-2021-4034](<https://tryhackme.com/room/pwnkit>) - Interactive lab for exploiting and remediating Pwnkit (CVE-2021-4034) in the Polkit package.
+* [Reverse Engineer .exe To Python](<https://pwn.guide/free/other/unpy2exe>) - How to reverse engineer a .exe to .py using unpy2exe.
+* [Reverse Engineer Android Apps for API Keys](<https://pwn.guide/free/forensics/re-android>) - How to reverse engineer Android apps & find confidential API Keys.
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
@@ -227,6 +235,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Obsecure](<https://app.hackthebox.com/challenges/obscure>) - Medium level forensics challenge.
 * [Intel101 Challenge](<https://cyberdefenders.org/blueteam-ctf-challenges/38>) - Medium level Threat Intel challenge.
 * [Introduction to Cryptohack](<https://cryptohack.org/courses/intro/course_details/>) - Medium level cryptography challenge.
+* [Forensic Analysis with Autopsy](https://pwn.guide/free/forensics/autopsy) - How to analyze digital media using Autopsy.
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
@@ -240,6 +249,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Ulysses -  Linux Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/41>) - Medium level disk forensics challenge.
 * [Banking Troubles - Windows Memory Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/43>) - Medium level memory forensics challenge.
 * [Detect Log4J](<https://cyberdefenders.org/blueteam-ctf-challenges/86>) - Medium level disk forensics challenge.
+* [Forensic Analysis with Autopsy](https://pwn.guide/free/forensics/autopsy) - How to analyze digital media using Autopsy.
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
