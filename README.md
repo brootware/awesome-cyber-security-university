@@ -281,6 +281,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Solr Exploiting Log4j](<https://tryhackme.com/room/solar>) - Explore CVE-2021-44228, a vulnerability in log4j affecting almost all software under the sun.
 * [Spring4Shell](<https://tryhackme.com/room/spring4shell>) - Interactive lab for exploiting Spring4Shell (CVE-2022-22965) in the Java Spring Framework.
 * [Most Recent threats](<https://tryhackme.com/module/recent-threats>) - Learn about the latest industry threats. Get hands-on experience identifying, exploiting, and mitigating critical vulnerabilities.
+* [Pentest Mindmap](https://pentestmindmap.com) - Interactive mindmap with 11,600+ pentesting commands covering all major topics: web, Active Directory, privilege escalation, network attacks, OSCP and more. Free to explore.
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
