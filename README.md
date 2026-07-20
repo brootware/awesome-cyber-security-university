@@ -93,6 +93,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Linux Privesc](<https://tryhackme.com/room/linuxprivesc>) - Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root! SSH is available.
 * [Red Team Fundamentals](<https://tryhackme.com/room/redteamfundamentals>) - Learn about the basics of a red engagement, the main components and stakeholders involved, and how red teaming differs from other cyber security engagements.
 * [Red Team Recon](<https://tryhackme.com/room/redteamrecon>) - Learn how to use DNS, advanced searching, Recon-ng, and Maltego to collect information about your target.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 * [Nmap Tutorials](https://labex.io/tutorials/quick-start-with-nmap-free-tutorials-400132) - Learn and practice the basics of network scanning using Nmap.
 
 <!-- markdownlint-disable MD036 -->
