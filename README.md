@@ -268,6 +268,12 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ## Bonus CTF practice and Latest CVEs
 
+### Free Training Platforms
+
+* [RansomLeak Security Training](https://ransomleak.com/catalogue/security-awareness/) - Free browser-based interactive labs for Application Security, API Security, Cloud Security, Git Security, and AI Security. No installation or signup required.
+
+### CTF Challenges
+
 * [Bandit](<https://overthewire.org/wargames/bandit/>) - Aimed at absolute beginners and teaches the basics of remote server access.
 * [Natas](<https://overthewire.org/wargames/natas/>) - Teaches the basics of serverside web-security.
 * [Post Exploitation Basics](<https://tryhackme.com/room/postexploit>) - Learn the basics of post-exploitation and maintaining access with mimikatz, bloodhound, powerview and msfvenom.
