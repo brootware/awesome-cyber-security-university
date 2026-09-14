@@ -8,7 +8,7 @@
 <i>Because education should be free.</i>
 <br/>
 
-<a href="https://brootware.Github.io/awesome-cyber-security-university/"><img src="https://vbr.nathanchung.dev/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
+<a href="https://brootware.Github.io/awesome-cyber-security-university/"><img src="https://vbr.nathanchung.dev/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a> <a href="https://github.com/brootware/awesome-cyber-security-university/actions/workflows/ci.yml"><img src="https://github.com/brootware/awesome-cyber-security-university/actions/workflows/ci.yml/badge.svg?branch=main" /></a>
 </div>
 
 ## Contents
