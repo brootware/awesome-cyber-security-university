@@ -202,10 +202,6 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Splunk Boss of the SOC V2](<https://cyberdefenders.org/blueteam-ctf-challenges/16>) - Splunk analysis vol 2.
 * [Splunk Boss of the SOC V3](<https://cyberdefenders.org/blueteam-ctf-challenges/8>) - Splunk analysis vol 3.
 * [Hunt Conti with Splunk](https://tryhackme.com/room/contiransomwarehgh) - An Exchange server was compromised with ransomware. Use Splunk to investigate how the attackers compromised the server.
-* [Hunting for Execution Tactic](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-3) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT&CK Tactic of Execution (TA0002).
-* [Hunting for Credential Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-5) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT&CK Tactic of Credential Access (TA0006).
-* [Hunting for Persistence Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2) - Join Cyborg Security's team of threat hunting instructors for a fun and hands-on-keyboard threat hunting workshop covering the topic of adversarial persistence (TA0003).
-* [Hunting for Defense Evation](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT&CK Tactic of Defense Evasion (TA0005).
 
 <!--lint disable double-link-->
 [↑](#contents)
