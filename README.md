@@ -320,13 +320,9 @@ Pull requests are welcome with the condition that the resource should be free! P
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Special thanks to everyone who forked or starred the repository ❤️
+Special thanks to everyone who forked or starred the repository ❤️!
 
-[![Stargazers repo roster for @brootware/awesome-cyber-security-university](https://reporoster.com/stars/dark/brootware/awesome-cyber-security-university)](https://github.com/brootware/awesome-cyber-security-university/stargazers)
-
-[![Forkers repo roster for @brootware/awesome-cyber-security-university](https://reporoster.com/forks/dark/brootware/awesome-cyber-security-university)](https://github.com/brootware/awesome-cyber-security-university/network/members)
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
