@@ -69,6 +69,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>) - Intro to red team engagements.
 * [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
 * [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) - A free course with 41 hands-on labs to practice and master the most commonly used Linux commands.
+* [WebTerm Learn](https://learn.webterm.app/en/courses) - Free Linux command line courses where each lesson ends in hands-on exercises in a simulated terminal in the browser. A free account is needed after the first lesson.
 
 <!-- markdownlint-disable MD036 -->
 **Introductory CTFs to get your feet wet**<!-- markdownlint-enable MD036 -->
