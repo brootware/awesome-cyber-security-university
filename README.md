@@ -103,6 +103,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Blue](<https://tryhackme.com/room/blue>) - Deploy & hack into a Windows machine, leveraging common misconfigurations issues.
 * [Simple CTF](<https://tryhackme.com/room/easyctf>) - Beginner level CTF.
 * [Bounty Hacker](<https://tryhackme.com/room/cowboyhacker>) - A space cowboy-themed boot to root machine.
+* [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
