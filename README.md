@@ -203,6 +203,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Splunk Boss of the SOC V2](<https://cyberdefenders.org/blueteam-ctf-challenges/16>) - Splunk analysis vol 2.
 * [Splunk Boss of the SOC V3](<https://cyberdefenders.org/blueteam-ctf-challenges/8>) - Splunk analysis vol 3.
 * [Hunt Conti with Splunk](https://tryhackme.com/room/contiransomwarehgh) - An Exchange server was compromised with ransomware. Use Splunk to investigate how the attackers compromised the server.
+* [SOC Home Lab](<https://github.com/szzxli/soc-home-lab>) - Free open-source SOC labs on synthetic data: triage CloudTrail logs, analyze a phishing sample and hunt recently exploited CVEs.
 
 <!--lint disable double-link-->
 [↑](#contents)
